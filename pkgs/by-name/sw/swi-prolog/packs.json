@@ -1,0 +1,2946 @@
+[
+  {
+    "name":"abbreviated_dates",
+    "ver":"0.0.392",
+    "fetcher":"zip",
+    "desc":"Parses abbreviated and ambiguous dates in multiple languages",
+    "url":"https://github.com/crgz/abbreviated_dates/archive/v0.0.392.zip",
+    "sha256":"0cd78rzqv02z62b3gizzlj871d21z265ny3i7l8l5m7fdbaad57h"
+  },
+  {
+    "name":"accessors",
+    "ver":"1.1.2",
+    "fetcher":"git",
+    "desc":"Relational predicate accessors generators that allow easy and efficient access to term arguments by name.",
+    "url":"https://github.com/LuizFBR/accessors.git",
+    "sha256":"066pzw5l1lyz35bcqjlcxfd7a9ssgipcsdc2cxcrl2mz4ndcbzqv"
+  },
+  {
+    "name":"achelois",
+    "ver":"0.5.0",
+    "fetcher":"zip",
+    "desc":"Collection of tools to make writing scripts in Prolog easier.",
+    "url":"https://github.com/ReedOei/achelois/archive/0.5.0.zip",
+    "sha256":"1jc9j4m84h7y7hkpl0y8d7md43hz72vmb9q0gfd786dzbhz939xr"
+  },
+  {
+    "name":"aleph",
+    "ver":"5",
+    "fetcher":"git",
+    "desc":"Aleph Inductive Logic Programming system",
+    "url":"https://github.com/friguzzi/aleph.git",
+    "sha256":"183k6mvfb3495wd61zk5dk3jip8syl7ipap8wcy0miv1jwiwyyli"
+  },
+  {
+    "name":"amazon_api",
+    "ver":"0.0.3",
+    "fetcher":"tarball",
+    "desc":"Interface to Amazon APIs",
+    "url":"http://packs.ndrix.com/amazon_api/amazon_api-0.0.3.tgz",
+    "sha256":"1hg7nlgimhagyz2g580ignav54p8s02mns64isi5bd3dimhj274l"
+  },
+  {
+    "name":"ansi_termx",
+    "ver":"0.0.1",
+    "fetcher":"tarball",
+    "desc":"ANSI terminal operations",
+    "url":"https://gitlab.com/canbican/ansi-termx/raw/releases/ansi_termx-0.0.1.tgz",
+    "sha256":"0p55pg3nal7pigdmz6yaalz202qgz3n6yw9dyaj8nfgsjcb1l2vv"
+  },
+  {
+    "name":"anti_unify",
+    "ver":"0.5",
+    "fetcher":"zip",
+    "desc":"Anti-unification. anti_unify/3 is intended as a relational drop-in replacement for term_subsumer/3.",
+    "url":"http://github.com/GeoffChurch/anti_unify/archive/0.5.zip",
+    "sha256":"0sd03i51m6fqda5g1h5vds50cysh4yb40qxgzw5pwihpk11vz4w1"
+  },
+  {
+    "name":"aop",
+    "ver":"0.0.9",
+    "fetcher":"git",
+    "desc":"Opinonated aspect-oriented programming for prolog",
+    "url":"https://github.com/hargettp/aop.git",
+    "sha256":"1vxnvn5y5ybq12752vz507bn6mrra35iblflf9mjf8aab56fhg03"
+  },
+  {
+    "name":"ape",
+    "ver":"6.7.180715",
+    "fetcher":"git",
+    "desc":"Parser for Attempto Controlled English (ACE)",
+    "url":"https://github.com/Attempto/APE.git",
+    "sha256":"05mym09dycddk8n558phxwasmmvh5vgi3r61lgjgr8wp9ld08cmn"
+  },
+  {
+    "name":"arithmetic_types",
+    "ver":"0.2.0",
+    "fetcher":"git",
+    "desc":"Support for user defined types in arithmetic expressions",
+    "url":"https://github.com/ridgeworks/arithmetic_types.git",
+    "sha256":"0zw5cjqj7mg3cbg2cpdcn399d73f2hb4ah9mlkkphc5m67yg34im"
+  },
+  {
+    "name":"arouter",
+    "ver":"2.0.0",
+    "fetcher":"tarball",
+    "desc":"Alternative HTTP path router",
+    "url":"http://packs.rlaanemets.com/alternative-router/arouter-2.0.0.tgz",
+    "sha256":"1nc2ds0v55aa6lgmbw349z29xx3sas23aqxac5m5xqqqxd119vxc"
+  },
+  {
+    "name":"assertions",
+    "ver":"0.0.1",
+    "fetcher":"git",
+    "desc":"Ciao Assertions Reader for SWI-Prolog",
+    "url":"https://github.com/edisonm/assertions.git",
+    "sha256":"0mqjsmv5shydy2js5vm3vd3f2x9x1a48fqpk1nbhy2c2gv3krb6p"
+  },
+  {
+    "name":"atom_feed",
+    "ver":"0.2.0",
+    "fetcher":"tarball",
+    "desc":"Parse Atom and RSS feeds",
+    "url":"http://packs.ndrix.com/atom_feed/atom_feed-0.2.0.tgz",
+    "sha256":"18hb4ihga6lww7f02bcrli70wdx7gdl458dkc1sgcvcmiayfb1ip"
+  },
+  {
+    "name":"auc",
+    "ver":"1.0",
+    "fetcher":"git",
+    "desc":"Library for computing Areas Under the Receiving Operating Charactersitics and Precision Recall curves",
+    "url":"https://github.com/friguzzi/auc.git",
+    "sha256":"0amlzkrnlcz2i2zjrh9p2d1f78ycrn1wglvw676v6ha0ssws6zl9"
+  },
+  {
+    "name":"automake",
+    "ver":"0.2.5",
+    "fetcher":"zip",
+    "desc":"Automake",
+    "url":"https://git.sr.ht/~jamesnvc/automake/refs/download/v0.2.5/automake-0.2.5.zip",
+    "sha256":"12ny5wr1qmr2m798p4p66ch1rlrg6xdgzzsxm6i28y4i4rjdi7p6"
+  },
+  {
+    "name":"b_real",
+    "ver":"1.0",
+    "fetcher":"tarball",
+    "desc":"Interface predicates to commonly used R functions.",
+    "url":"https://stoics.org.uk/~nicos/sware/packs/b_real/b_real-1.0.tgz",
+    "sha256":"1pq4hizlx245k90d2n011v0jdxsmmmm84cfnfcigh6b016c4pcqx"
+  },
+  {
+    "name":"bddem",
+    "ver":"4.3.1",
+    "fetcher":"git",
+    "desc":"A library for manipulating Binary Decision Diagrams",
+    "url":"https://github.com/friguzzi/bddem.git",
+    "sha256":"1g9zlkfgi0pih4jfryjn28f94wlss1y69r8zix276mvz3r04dk8p"
+  },
+  {
+    "name":"bencode",
+    "ver":"0.0.1",
+    "fetcher":"tarball",
+    "desc":"Bencoding from BitTorrent protocol",
+    "url":"http://packs.ndrix.com/bencode/bencode-0.0.1.tgz",
+    "sha256":"06ypqizqc6612fhq1y3spsg85aj57jkbb37vs9k3vcx7si6rcfrw"
+  },
+  {
+    "name":"bibtex",
+    "ver":"0.1.8",
+    "fetcher":"zip",
+    "desc":"Parser and predicates for BibTeX files",
+    "url":"https://bitbucket.org/cnngimenez/swi-bibtex/get/bibtex-0.1.8.zip",
+    "sha256":"1ahnqj0swca63j7hwgr585rl8mqsd691xj9d1l22bff7c32dgjxh"
+  },
+  {
+    "name":"bims",
+    "ver":"3.0",
+    "fetcher":"tarball",
+    "desc":"Bayesian inference of model structure.",
+    "url":"https://stoics.org.uk/~nicos/sware/packs/bims/bims-3.0.tgz",
+    "sha256":"1aq6z58dxjx63xiqapgxrd11707kqj4dzpna1rj3rcmzdnj2gfrj"
+  },
+  {
+    "name":"bio_analytics",
+    "ver":"0.7",
+    "fetcher":"tarball",
+    "desc":"Computational biology data analytics.",
+    "url":"https://stoics.org.uk/~nicos/sware/packs/bio_analytics/bio_analytics-0.7.tgz",
+    "sha256":"0qfd1ajm6jb4pibzs51ca43d0ayfj0abpclvp93lnzfbzgz1hwk5"
+  },
+  {
+    "name":"bio_db",
+    "ver":"4.7",
+    "fetcher":"tarball",
+    "desc":"Access, use and manage big, biological datasets.",
+    "url":"https://stoics.org.uk/~nicos/sware/packs/bio_db/bio_db-4.7.tgz",
+    "sha256":"0idgf0biibfqhd6lvxdf8dps3wssz3ryw67x9k9dx4dwdywq2lgk"
+  },
+  {
+    "name":"bio_db_repo",
+    "ver":"25.3.28",
+    "fetcher":"tarball",
+    "desc":"Data package for bio_db.",
+    "url":"https://stoics.org.uk/~nicos/sware/packs/bio_db_repo/bio_db_repo-25.3.28.tgz",
+    "sha256":"01h9fccidlqc3vy4z4l4y03zvz8kadmb6bicwpq8aj6sml9dzj8h"
+  },
+  {
+    "name":"biomake",
+    "ver":"0.1.5",
+    "fetcher":"zip",
+    "desc":"Prolog makefile-like system",
+    "url":"https://github.com/evoldoers/biomake/archive/v0.1.5.zip",
+    "sha256":"15spj025xqcqsin69jw4wav89kd0v5hb5rrxhpdx5fn944pjqwx9"
+  },
+  {
+    "name":"blog_core",
+    "ver":"1.6.3",
+    "fetcher":"tarball",
+    "desc":"Blog/CMS framework",
+    "url":"http://packs.rlaanemets.com/blog-core/blog_core-1.6.3.tgz",
+    "sha256":"1sdg84nka6ikh5lwh8kkam6y2v123p9d8px8ybs67sp0zgg3qxb9"
+  },
+  {
+    "name":"body_reordering",
+    "ver":"2.0.3",
+    "fetcher":"git",
+    "desc":"Clause expansion Utils for deciding which order to run Goals in a body",
+    "url":"https://github.com/TeamSPoon/body_reordering.git",
+    "sha256":"1csydiakckyzjlma8i7x1fiq2r693gjdbjnqqwdb5y0sxlyg8yyh"
+  },
+  {
+    "name":"bousi_pack",
+    "ver":"1.0.0",
+    "fetcher":"git",
+    "desc":"On my way to a SWISH enabled BPL - a FLI exercise",
+    "url":"https://github.com/CapelliC/bousi_pack.git",
+    "sha256":"0zaidg5v8ppwrl3hrv3wcv6fhjj4krsgr62qddk17pmb91q67z34"
+  },
+  {
+    "name":"by_unix",
+    "ver":"0.2",
+    "fetcher":"tarball",
+    "desc":"An elegance layer to calling unix commands.",
+    "url":"http://stoics.org.uk/~nicos/sware/packs/by_unix/by_unix-0.2.tgz",
+    "sha256":"0fikwz8rwldz643i7hgw48cyqvam1blhmzsqqqm5pwngl4rr0d7h"
+  },
+  {
+    "name":"call_cleaup_each",
+    "ver":"0.0.1",
+    "fetcher":"git",
+    "desc":"Call A Goal On Each Redo",
+    "url":"https://github.com/TeamSPoon/each_call_cleanup.git",
+    "sha256":"06h348k28959lhqk4g3pl75255h95z5mayfmagrjl5mpz0p2pxgb"
+  },
+  {
+    "name":"callgraph",
+    "ver":"0.4.1",
+    "fetcher":"tarball",
+    "desc":"Predicate call graph visualisation",
+    "url":"https://raw.githubusercontent.com/samer--/prolog/master/callgraph/release/callgraph-0.4.1.tgz",
+    "sha256":"03d07j5wmq4x16m2ihk37z6qbsbaskr02296yzzm5qksk8bxsnn6"
+  },
+  {
+    "name":"canny_tudor",
+    "ver":"0.23.7",
+    "fetcher":"zip",
+    "desc":"Canny bag o' Tudor",
+    "url":"https://github.com/royratcliffe/canny_tudor/archive/refs/tags/0.23.7.zip",
+    "sha256":"07mbdh9jkmzzkxb99bl1rd5jy95gv2njq7skwymijlvhj5gks6sc"
+  },
+  {
+    "name":"cclab",
+    "ver":"0.1.5",
+    "fetcher":"tarball",
+    "desc":"Continuations lab",
+    "url":"https://raw.githubusercontent.com/samer--/prolog/master/cclab/release/cclab-0.1.5.tgz",
+    "sha256":"0sgr2wpa2iynbgjqy0rcb0zfdh00yydpxbrbwdsks8nnjws82wwy"
+  },
+  {
+    "name":"ccprism",
+    "ver":"0.1.0",
+    "fetcher":"git",
+    "desc":"Probabilistic programming using delimited continuations",
+    "url":"https://github.com/samer--/ccprism.git",
+    "sha256":"1i9iw98d8slhc752yvsw92pyp58bbdi6rqqmpl124wwiar5zh794"
+  },
+  {
+    "name":"chan",
+    "ver":"0.2.0",
+    "fetcher":"zip",
+    "desc":"Directional channels for thread communication",
+    "url":"https://github.com/mndrix/chan/archive/v0.2.0.zip",
+    "sha256":"07v5x64hx0v6ynzn1snxnxlxzyz55vhdr89dggz8mbp63nj81fzd"
+  },
+  {
+    "name":"chat80",
+    "ver":"1.1",
+    "fetcher":"zip",
+    "desc":"Classic CHAT80 Prolog natural language application",
+    "url":"https://github.com/JanWielemaker/chat80/archive/V1.1.zip",
+    "sha256":"1k354051lzrpnrac46fd68zx0q59v8yi8xcmy36ylbvldjp0y1bg"
+  },
+  {
+    "name":"chess_db",
+    "ver":"1.0",
+    "fetcher":"tarball",
+    "desc":"PGN and chess game databases.",
+    "url":"http://stoics.org.uk/~nicos/sware/packs/chess_db/chess_db-1.0.tgz",
+    "sha256":"0s1fx3c049bqz1q8w7aad3rzqas3km06sps09zjxzfji6varh87h"
+  },
+  {
+    "name":"ciao",
+    "ver":"0.0.1",
+    "fetcher":"git",
+    "desc":"Ciao Prolog compatibility library",
+    "url":"https://github.com/edisonm/ciao.git",
+    "sha256":"1abxlz6qhmjxxw420bi0l763ikznyjnh9kicc2qgy6zj1bgivs6d"
+  },
+  {
+    "name":"clause_attvars",
+    "ver":"1.1.118",
+    "fetcher":"git",
+    "desc":"An alternate interface to the clause database to allow attributed variables to be asserted",
+    "url":"https://github.com/TeamSPoon/clause_attvars.git",
+    "sha256":"1sprqyvps6gkadhn0k0jk7is21vnkaa5hia0s2rsy7298vni6y6p"
+  },
+  {
+    "name":"cli_table",
+    "ver":"1.0.10",
+    "fetcher":"zip",
+    "desc":"Pretty unicode tables for the CLI with Prolog",
+    "url":"https://github.com/fnogatz/cli_table/archive/v1.0.10.zip",
+    "sha256":"105hpyd7ivdf2c1kih33qg0xak5865pvpjnb2sr57nw172ly95nx"
+  },
+  {
+    "name":"clitable",
+    "ver":"1.0.8",
+    "fetcher":"zip",
+    "desc":"Pretty unicode tables for the CLI with Prolog",
+    "url":"https://github.com/fnogatz/clitable/archive/v1.0.8.zip",
+    "sha256":"0qn1jb9q3fcj1yfhb26pb5hany1cyarv0b7pflhk8maxf4gsnzb6"
+  },
+  {
+    "name":"clpBNR",
+    "ver":"0.12.2",
+    "fetcher":"git",
+    "desc":"CLP over Reals using Interval Arithmetic - includes Rational, Integer and Boolean domains as subsets.",
+    "url":"https://github.com/ridgeworks/clpBNR.git",
+    "sha256":"0cdx1anvndcz6rfdsk7k801mmbj8zn7an8wvvxmvx71l48y9hcbz"
+  },
+  {
+    "name":"clpcd",
+    "ver":"0.0.1",
+    "fetcher":"git",
+    "desc":"Constraints over continuous domains",
+    "url":"https://github.com/edisonm/clpcd.git",
+    "sha256":"0nfhvlcl4r15xxs2ixj3cwfar0w930mvhqfnl9a1hhrk6p9b94xk"
+  },
+  {
+    "name":"condition",
+    "ver":"0.1.1",
+    "fetcher":"tarball",
+    "desc":"Condition system a la Common Lisp",
+    "url":"http://packs.ndrix.com/condition/condition-0.1.1.tgz",
+    "sha256":"15sxxlbddq3w8gza2sk6fcmp59ramxrn74apa8bj396ic96z9kc3"
+  },
+  {
+    "name":"consul_client",
+    "ver":"0.0.4",
+    "fetcher":"tarball",
+    "desc":"Consul Client",
+    "url":"https://gitlab.com/canbican/consul-client/raw/releases/consul_client-0.0.4.tgz",
+    "sha256":"1hj0w62fbpszjzszg43nprqg4dbizx2sjivciz8xz0m0q9nwgsxg"
+  },
+  {
+    "name":"cosmos",
+    "ver":"0.36",
+    "fetcher":"zip",
+    "desc":"<no title>",
+    "url":"https://github.com/mcsoto/cosmos-lang/files/10249401/cosmos-0.36.zip",
+    "sha256":"05g1iazg7xxmchf7mzfk1fwl889rfxrc0wmhs433v5jj2frxj25n"
+  },
+  {
+    "name":"coworkers",
+    "ver":"0.1.0",
+    "fetcher":"zip",
+    "desc":"Workflow definition as tree of coroutines",
+    "url":"https://github.com/incodame/coworkers/archive/0.1.0.zip",
+    "sha256":"08wdyl2d4pfmzdj4bmk79x6q0w02fnd25zm3fis14wk4i0mp52nw"
+  },
+  {
+    "name":"cplint",
+    "ver":"4.5.0",
+    "fetcher":"git",
+    "desc":"A suite of programs for reasoning with probabilistic logic programs",
+    "url":"https://github.com/friguzzi/cplint.git",
+    "sha256":"17m62zxrq7mx92jj8m6drlr620vbgwpc8rfjiw5cylvbl67dbl11"
+  },
+  {
+    "name":"cplint_datasets",
+    "ver":"1.0",
+    "fetcher":"git",
+    "desc":"Dataset for machine learning with cplint",
+    "url":"https://github.com/friguzzi/cplint_datasets.git",
+    "sha256":"0h0rp95j47nsqzz7qz27cs5v51br02xn6h7fz311h4ly0cfq92vs"
+  },
+  {
+    "name":"cplint_r",
+    "ver":"1.0.0",
+    "fetcher":"git",
+    "desc":"R plotting predicates for cplint",
+    "url":"https://github.com/friguzzi/cplint_r.git",
+    "sha256":"1mpkmm502kyvwyys0x1pab1ikqp4b051ac6b6q2z567pmyibs75p"
+  },
+  {
+    "name":"css_write",
+    "ver":"1.4.0",
+    "fetcher":"zip",
+    "desc":"DCG for generating CSS",
+    "url":"https://github.com/jamesnvc/css_write/archive/refs/tags/v1.4.0.zip",
+    "sha256":"09cb9jr9pp788369cz2h0p8484h51g68w25cz64affnf95rwadki"
+  },
+  {
+    "name":"ct_fft",
+    "ver":"0.0",
+    "fetcher":"git",
+    "desc":"Cooley–Tukey FFT algorithm",
+    "url":"https://github.com/PiotrLi/plcomplex.git",
+    "sha256":"17prk4j70gdhpfvqm2s4gxlyx3kmiif6a9c2m76r282xa6zwq58l"
+  },
+  {
+    "name":"date_time",
+    "ver":"0.1.4",
+    "fetcher":"git",
+    "desc":"Logical arithmetic on dates and times",
+    "url":"https://github.com/fnogatz/date_time.git",
+    "sha256":"0n3yyfy4x6pq16gdgzz4f5vxyblhvmq5ccd6hzci4gjmk7mpr9gw"
+  },
+  {
+    "name":"db_facts",
+    "ver":"0.5",
+    "fetcher":"tarball",
+    "desc":"Common db-tables-as-facts and SQL layer for ODBC and proSQLite.",
+    "url":"http://stoics.org.uk/~nicos/sware/packs/db_facts/db_facts-0.5.tgz",
+    "sha256":"12m156cmf9lfyd5bbaalahn2lxxj87d8cz9aalgvkaibbv6gz0sj"
+  },
+  {
+    "name":"dcg4pt",
+    "ver":"1.0.0",
+    "fetcher":"zip",
+    "desc":"DCG for Parse Trees",
+    "url":"https://github.com/fnogatz/dcg4pt/archive/v1.0.0.zip",
+    "sha256":"1vxnn9glhld4zc8ml86dl52c688fr3jc6ynnsg1a05vpa697g64p"
+  },
+  {
+    "name":"dcg_extras",
+    "ver":"0.1",
+    "fetcher":"git",
+    "desc":"Dcg extras",
+    "url":"https://github.com/Risto-Stevcev/dcg_extras.git",
+    "sha256":"0q85j2jqn1j47fvvjfil0ps1xzv3y5npjv03gl5akw1g239gg7ac"
+  },
+  {
+    "name":"dcg_tools",
+    "ver":"0.0.3",
+    "fetcher":"zip",
+    "desc":"Battery included bidirectional dcg parsing",
+    "url":"https://github.com/meditans/dcg_tools/archive/v0.0.3.zip",
+    "sha256":"0y6iy4igjpc43kkvhddg40klhd701g63clfrmp7s7v8fa1ikrigl"
+  },
+  {
+    "name":"dcg_util",
+    "ver":"0.3.1",
+    "fetcher":"zip",
+    "desc":"DCG utility predicates",
+    "url":"https://github.com/mndrix/dcg_util/archive/v0.3.1.zip",
+    "sha256":"0kwc6wvwidma1i1xxrg3cfvslhbw5zmj1dkqya2i00czf63kyx2r"
+  },
+  {
+    "name":"dcgutils",
+    "ver":"1.1.3",
+    "fetcher":"tarball",
+    "desc":"DCG related utilities",
+    "url":"https://raw.githubusercontent.com/samer--/prolog/master/dcgutils/release/dcgutils-1.1.3.tgz",
+    "sha256":"0fn2nrp1ajpm9nf0pp3swawbfaz3zm3ichgniy1hp5abjvc01zjs"
+  },
+  {
+    "name":"ddebug",
+    "ver":"0.1",
+    "fetcher":"git",
+    "desc":"Declarative Debugger",
+    "url":"https://github.com/JanWielemaker/ddebug.git",
+    "sha256":"1hi9l11bl1qrnqh68gpxcmhgvnjaci1r3ns4j3ljqiv84lfj6ibd"
+  },
+  {
+    "name":"debug_adapter",
+    "ver":"0.7.2",
+    "fetcher":"zip",
+    "desc":"Debug Adapter Protocol package for SWI-Prolog",
+    "url":"https://github.com/eshelyaron/debug_adapter/releases/download/v0.7.2/debug_adapter-0.7.2.zip",
+    "sha256":"1dxx54zccvmarv2qlkwylps021c3q4qfcrznbqmj0y58b9maswjw"
+  },
+  {
+    "name":"debug_call",
+    "ver":"1.5",
+    "fetcher":"tarball",
+    "desc":"Debugging with calls",
+    "url":"https://stoics.org.uk/~nicos/sware/packs/debug_call/debug_call-1.5.tgz",
+    "sha256":"04z93krfp34vgv516fc444108vn7fxvi2da5lvmwp55faprmknz4"
+  },
+  {
+    "name":"delay",
+    "ver":"0.3.3",
+    "fetcher":"zip",
+    "desc":"Avoid instantiation errors for built-in predicates",
+    "url":"http://storage.googleapis.com/packs.ndrix.com/delay/delay-0.3.3.zip",
+    "sha256":"0mvmplf98ydyf62jbka7c1wn8m86s8jyzdiaqcmgbbxkn0ixmqwd"
+  },
+  {
+    "name":"dia",
+    "ver":"0.1",
+    "fetcher":"tarball",
+    "desc":"An interface to .dia-uml-diagrams",
+    "url":"http://www.swi-prolog.org/download/pack/dia-0.1.tgz",
+    "sha256":"1r26yqvnklqhfl98nvqp32laf1b9vmksbr3hcx0rq3p95cn5h8i9"
+  },
+  {
+    "name":"diagnostics",
+    "ver":"0.2.0",
+    "fetcher":"zip",
+    "desc":"SWI-Prolog source code diagnostics library",
+    "url":"https://git.sr.ht/~eshel/diagnostics.pl/refs/download/v0.1.4/diagnostics-0.2.0.zip",
+    "sha256":"0cpv2w101vphnsfzd05na4wqa0f7phl6mxhgfvhg144jfmdq1yx1"
+  },
+  {
+    "name":"dialect-ciao",
+    "ver":"0.0.1",
+    "fetcher":"git",
+    "desc":"Ciao Prolog compatibility library",
+    "url":"https://github.com/edisonm/ciao.git",
+    "sha256":"0aq1ns2ry49ln7gq3bnqb6lyac7g774fpng7n5gb480w0rwy9il7"
+  },
+  {
+    "name":"dict_schema",
+    "ver":"0.0.2",
+    "fetcher":"tarball",
+    "desc":"Dict converter and validator",
+    "url":"http://packs.rlaanemets.com/dict-schema/dict_schema-0.0.2.tgz",
+    "sha256":"05ir0p851z4159z680ngp0xj0089vln9n0v5jp81dqz1bqfc2in8"
+  },
+  {
+    "name":"dictoo",
+    "ver":"3.1.3",
+    "fetcher":"git",
+    "desc":"Dict-like OO Syntax",
+    "url":"https://github.com/TeamSPoon/dictoo.git",
+    "sha256":"0r118qbz8ifazrv6yavybzsbaaykzhz3xkafn70dfgsl6pg591x3"
+  },
+  {
+    "name":"dictype",
+    "ver":"0.0.2",
+    "fetcher":"zip",
+    "desc":"Concise dict type definitions",
+    "url":"https://github.com/averykatko/dictype/archive/v0.0.2.zip",
+    "sha256":"1y1iblvqp9hsm32ix5l6kkgv8m7k64na65jqpw1zz3blgjfblhql"
+  },
+  {
+    "name":"dirtree",
+    "ver":"1.0.1",
+    "fetcher":"git",
+    "desc":"Load XML of directory content.",
+    "url":"https://github.com/CapelliC/dirtree.git",
+    "sha256":"09pkz131i3kf0wm0nj5gjw1vva7pz75jb15b15q8gkhdj5bxwv7r"
+  },
+  {
+    "name":"disp_bn",
+    "ver":"0.1",
+    "fetcher":"tarball",
+    "desc":"Construct and display BN terms via graphviz",
+    "url":"http://stoics.org.uk/~nicos/sware/packs/disp_bn/disp_bn-0.1.tgz",
+    "sha256":"0vhn1z27z0kmn8sa9sjx2570afm12wlvskkfyx0flqbw5m25285s"
+  },
+  {
+    "name":"djson",
+    "ver":"0.0.3",
+    "fetcher":"tarball",
+    "desc":"Declarative JSON",
+    "url":"http://packs.ndrix.com/djson/djson-0.0.3.tgz",
+    "sha256":"0s2k4pqq7xiprrzkq6mryrjbvkjr1i3nmkd896ki5x9sz4d1r824"
+  },
+  {
+    "name":"docstore",
+    "ver":"2.0.2",
+    "fetcher":"tarball",
+    "desc":"Document-oriented database for Prolog",
+    "url":"http://packs.rlaanemets.com/docstore/docstore-2.0.2.tgz",
+    "sha256":"16bsp4kqs24d8jhk4ax8ns72j9mxkl6j3pbwdapwjb1y67ap6sp8"
+  },
+  {
+    "name":"doctest",
+    "ver":"1.3.2",
+    "fetcher":"zip",
+    "desc":"Doctests using PlDoc and PlUnit",
+    "url":"https://soliman.gitlabpages.inria.fr/doctest/doctest-1.3.2.zip",
+    "sha256":"0lar2m1qc5z6xdwwkfxzvsx2byxqqihxl87vp4p0wb79s6q4cd0d"
+  },
+  {
+    "name":"dot_dcg",
+    "ver":"0.1.0",
+    "fetcher":"git",
+    "desc":"A DCG for a subset of the DOT language",
+    "url":"https://github.com/edechter/dot_dcg.git",
+    "sha256":"1bk4mxqpxxqn70l4xxvlcpxhpg7rf3amgl08nv1lda4c82cibv7p"
+  },
+  {
+    "name":"dotcloud",
+    "ver":"0.0.2",
+    "fetcher":"tarball",
+    "desc":"Conveniences for running on dotCloud",
+    "url":"http://packs.ndrix.com/dotcloud/dotcloud-0.0.2.tgz",
+    "sha256":"1mrw3mbx667kgb3gampw5z83pwdkpcgb2z56s3s0a1dhav6jlzq7"
+  },
+  {
+    "name":"dpath",
+    "ver":"0.7.3",
+    "fetcher":"zip",
+    "desc":"Directory traversal module",
+    "url":"https://github.com/xpxaxsxi/dpath/archive/0.7.3.zip",
+    "sha256":"0s6z01j3g8c1nm3ajh24cwa0pfwnqd7qhksfzf7s1pwk3mr4i61m"
+  },
+  {
+    "name":"dynworks",
+    "ver":"1.3.2",
+    "fetcher":"zip",
+    "desc":"Dynamic multi-dimensional arrays and vectors",
+    "url":"https://github.com/TheWiseCoder/Dynworks/raw/main/swi_pack/dynworks-1.3.2.zip",
+    "sha256":"1krwcd3myjf7zzg7iqqywmw139r4qa5c9a7acmbcrj4nh2crzags"
+  },
+  {
+    "name":"each_call_cleanup",
+    "ver":"1.1.118",
+    "fetcher":"git",
+    "desc":"Each Call Redo Setup and Cleanup",
+    "url":"https://github.com/TeamSPoon/each_call_cleanup.git",
+    "sha256":"1g6rcpjj3g627paiv7qjwxl6mmrj4ii17cbna9lzrpy85hiwj9pf"
+  },
+  {
+    "name":"edcg",
+    "ver":"0.9.1.8",
+    "fetcher":"git",
+    "desc":"Extended DCG",
+    "url":"https://github.com/kamahen/edcg.git",
+    "sha256":"16n4032qzdn10c76xvvwwx1218qmb30kj80c2dmfr505qg6611ix"
+  },
+  {
+    "name":"eggdrop",
+    "ver":"2.0.3",
+    "fetcher":"git",
+    "desc":"Hook up to an existing IRC Client called an Eggdrop",
+    "url":"https://github.com/TeamSPoon/eggdrop.git",
+    "sha256":"0bjwyd40xb5ybhffggb9vdhg1ls00m3in1w345wpadbk4qcf4188"
+  },
+  {
+    "name":"environ",
+    "ver":"2.0",
+    "fetcher":"git",
+    "desc":"Demo package with C code, fetching the program environment",
+    "url":"https://github.com/JanWielemaker/environ.git",
+    "sha256":"05l714j59jrhhcm5z1720fmi3rqsc8kdn2nwhwz8iknprjnpgpz2"
+  },
+  {
+    "name":"eunify",
+    "ver":"0.1",
+    "fetcher":"zip",
+    "desc":"Finite domain semantic unification",
+    "url":"https://github.com/GeoffChurch/eunify/archive/0.1.zip",
+    "sha256":"0fmhwm11nh5qppj2fazg6z44m072i105k00xmzmqli93hb0arqbl"
+  },
+  {
+    "name":"execution_context",
+    "ver":"0.2.0",
+    "fetcher":"git",
+    "desc":"Allows to retrieve setting from execution environment, given flexibility over setting/2, get_env, or command line configuration",
+    "url":"https://github.com/milung/execution_context.git",
+    "sha256":"1qnpywlp4vzlhsk15hcswc65d26p4s71l67ldji9z19m9rh4zqz1"
+  },
+  {
+    "name":"ffi",
+    "ver":"0.8",
+    "fetcher":"zip",
+    "desc":"Dynamically call C functions",
+    "url":"https://github.com/JanWielemaker/ffi/archive/V0.8.zip",
+    "sha256":"02nkxq2v807yw50kr9zgkmdakvyr2d0wk1mljiv2h3dxp06jm8n6"
+  },
+  {
+    "name":"ffimatrix",
+    "ver":"0.1.0",
+    "fetcher":"git",
+    "desc":"Operations with matrices using Prolog and C",
+    "url":"https://github.com/malbertife/ffimatrix.git",
+    "sha256":"0gw7h0s3505li1lqglqpixl06nbcl2rwbgnzpyhf7pm7y71ji29i"
+  },
+  {
+    "name":"file_scope",
+    "ver":"1.1.118",
+    "fetcher":"git",
+    "desc":"File local scoped efects",
+    "url":"https://github.com/TeamSPoon/file_scope.git",
+    "sha256":"0lipms6lqr8ls64lsgx52v5hwyhxiz4ahyx0aa2sa7n9xq1m4s9b"
+  },
+  {
+    "name":"file_utilities",
+    "ver":"0.1",
+    "fetcher":"git",
+    "desc":"File system related utilities",
+    "url":"https://github.com/canbican/file_utilities.git",
+    "sha256":"1slx0r7qxcz2scd8zpiyr8y79v4vwsvs1cvm2833ppnsz3r9v14z"
+  },
+  {
+    "name":"files_extras",
+    "ver":"0.1.0",
+    "fetcher":"git",
+    "desc":"Few extra predicates for traversing folders and simplifying work with file system",
+    "url":"https://github.com/milung/file_extras.git",
+    "sha256":"0n756bhbxjksjcdpp0z9xb65ykg9mjn6lnjwb8lww7bnz9l9xvvz"
+  },
+  {
+    "name":"fileutils",
+    "ver":"0.3.5",
+    "fetcher":"tarball",
+    "desc":"Utilities for reading, writing and finding files",
+    "url":"https://raw.githubusercontent.com/samer--/prolog/master/fileutils/release/fileutils-0.3.5.tgz",
+    "sha256":"0b4xrc1bdws8v364kxd5i5z4r5m9qjng4y9d6h15wck8hzrnzzn2"
+  },
+  {
+    "name":"fine_upload",
+    "ver":"0.2.0",
+    "fetcher":"zip",
+    "desc":"HTTP support for file uploading",
+    "url":"https://github.com/JanWielemaker/fine_upload/archive/V0.2.0.zip",
+    "sha256":"122c0l3vm908c99pxig8ywy3n47l94zygmwwiy3mxrl4rpdl63s8"
+  },
+  {
+    "name":"fld",
+    "ver":"1.2.2",
+    "fetcher":"git",
+    "desc":"Object system that allows easy and efficient access to term arguments by name.",
+    "url":"https://github.com/da-poodle/fld.git",
+    "sha256":"1ynx4jbvc2s2q45caw7qc8gb1ykfxpzv730ra43g0zz0lqax04p5"
+  },
+  {
+    "name":"fluents",
+    "ver":"0.1.2",
+    "fetcher":"git",
+    "desc":"Access all solutions of a goal without backtracking",
+    "url":"https://github.com/texttheater/fluents.git",
+    "sha256":"11lgrwv5k8dk9bz1sxcr22hkikghxng7pqkph7xq23dfzj6nz2xy"
+  },
+  {
+    "name":"flux",
+    "ver":"1.1.118",
+    "fetcher":"git",
+    "desc":"FLUX: A logic programming method for reasoning agents and ALPprologis a Prolog implementation of an action programming language. With ALPprolog you can program strategies for autonomous agents in dynamic domains like e.g. the Wumpus world.",
+    "url":"https://github.com/TeamSPoon/flux.git",
+    "sha256":"1y7nx6nqy4vci3c943m01n1lx7b32ahry7w7g0zq0xzx6v9lprny"
+  },
+  {
+    "name":"fnotation",
+    "ver":"1.0.0",
+    "fetcher":"zip",
+    "desc":"Function notation for Prolog",
+    "url":"https://github.com/awto/fnotation/archive/v1.0.0.zip",
+    "sha256":"0n34zsfjvi0xq2qi0929r4371zjz4s1p25249yf18fwh7awlcyx3"
+  },
+  {
+    "name":"format_spec",
+    "ver":"0.0.2",
+    "fetcher":"tarball",
+    "desc":"Parse and check format/2 specifications",
+    "url":"http://packs.ndrix.com/format_spec/format_spec-0.0.2.tgz",
+    "sha256":"1qf6764bky7xpfmhzxpzncpnb0yz0swzn8yji50j4ch1crvfi0yx"
+  },
+  {
+    "name":"func",
+    "ver":"0.4.2",
+    "fetcher":"zip",
+    "desc":"Function application and composition",
+    "url":"https://github.com/mndrix/func/archive/v0.4.2.zip",
+    "sha256":"0sadwsh5zlb6qj9255qmvg19al7jw8ijxs02pvk5d19ib5zl29n2"
+  },
+  {
+    "name":"function_expansion",
+    "ver":"0.1.2",
+    "fetcher":"git",
+    "desc":"Help for writing function-like macros",
+    "url":"https://github.com/esad/function_expansion.git",
+    "sha256":"0zr8rlcl9c4vhajs5k20lvbpai0awy4m1239b48sacpxlc0aag3n"
+  },
+  {
+    "name":"gbn",
+    "ver":"0.2",
+    "fetcher":"tarball",
+    "desc":"BNs for large cohort genomic studies.",
+    "url":"http://stoics.org.uk/~nicos/sware/packs/gbn/gbn-0.2.tgz",
+    "sha256":"19853016y8zi4zqbfkzk1vjr42g0is4a0x9yfcfp2vn6ckbvm5gi"
+  },
+  {
+    "name":"genutils",
+    "ver":"0.3.8",
+    "fetcher":"tarball",
+    "desc":"General miscellaneous utilities",
+    "url":"https://raw.githubusercontent.com/samer--/prolog/master/genutils/release/genutils-0.3.8.tgz",
+    "sha256":"1z50brzyk80wxb7z0wgr211fwljd2rmwa81wscx6f6nv8f86rrjb"
+  },
+  {
+    "name":"geoip",
+    "ver":"0.9.0",
+    "fetcher":"zip",
+    "desc":"Access GeoIP library",
+    "url":"https://github.com/JanWielemaker/geoip/archive/V0.9.0.zip",
+    "sha256":"1kz557svsdir6gfciazxbwpgg18bscbajb5zbq8najdc05rb9w5s"
+  },
+  {
+    "name":"gitlabci",
+    "ver":"1.0.6",
+    "fetcher":"zip",
+    "desc":"Create a pack release page using Gitlab CI",
+    "url":"https://soliman.gitlabpages.inria.fr/gitlabci/releases/gitlabci-1.0.6.zip",
+    "sha256":"175s906996wbswja1cqz21k2825s3m8kj1iv9a9kj6f3xvrds3qf"
+  },
+  {
+    "name":"googleclient",
+    "ver":"0.5.2",
+    "fetcher":"zip",
+    "desc":"SWI-Prolog code for \"Login with Google\"",
+    "url":"https://github.com/JanWielemaker/googleclient/archive/V0.5.2.zip",
+    "sha256":"0cwlxwd0h56jg7blqxwcsrbsnpz9z7lpsjr5b2ym56v1c5vw7gfn"
+  },
+  {
+    "name":"gpc",
+    "ver":"1.2.0",
+    "fetcher":"git",
+    "desc":"Generic polygon clipper",
+    "url":"https://github.com/royratcliffe/gpc.git",
+    "sha256":"10qb12fyxdjkfy64rh7glkd55imb08kakjp3y39m4y64nnryin0g"
+  },
+  {
+    "name":"graphml",
+    "ver":"0.1.0",
+    "fetcher":"tarball",
+    "desc":"Write GraphML files",
+    "url":"http://www.swi-prolog.org/download/pack/graphml-0.1.0.tgz",
+    "sha256":"1pw25ggbsbi9644ranzfp85hl6x5ng9mw3m6fhyalpc0bixkzgjr"
+  },
+  {
+    "name":"graphpl",
+    "ver":"0.1.1",
+    "fetcher":"git",
+    "desc":"Graph data structure utilities",
+    "url":"https://github.com/damianoazzolini/graphpl.git",
+    "sha256":"1js0fysswsxbdns9b16hjfkpdylbj17nxb0y94lvdrfd77ga2m5l"
+  },
+  {
+    "name":"graphql",
+    "ver":"0.0.1",
+    "fetcher":"git",
+    "desc":"GraphQL Prolog Library",
+    "url":"https://github.com/NaohiroTamura/graphql.git",
+    "sha256":"104q05d4p7xldr9qh8c5nbpjs4yi7smy74xdpkbdr7aiimm229kj"
+  },
+  {
+    "name":"graphql-swipl",
+    "ver":"0.0.1",
+    "fetcher":"git",
+    "desc":"GraphQL Prolog Library",
+    "url":"https://github.com/NaohiroTamura/graphql.git",
+    "sha256":"1rpf1agh6c30yqg4z9v31n3ydhcz15gwkrf24fj3nn7n7yzkjmr6"
+  },
+  {
+    "name":"gvar_syntax",
+    "ver":"2.0.3",
+    "fetcher":"git",
+    "desc":"Global Variable Syntax",
+    "url":"https://github.com/TeamSPoon/gvar_syntax.git",
+    "sha256":"1wiwz8p60vp8csbn2yx5xn9pi4fqax5m09x93qwwagwnch9mk838"
+  },
+  {
+    "name":"gvterm",
+    "ver":"1.1",
+    "fetcher":"tarball",
+    "desc":"Show Prolog terms using graphviz",
+    "url":"http://www.swi-prolog.org/download/pack/gvterm-1.1.tgz",
+    "sha256":"0mn4idzlvq808s5ar2qzvz5z1ilnjlspig7hgw7cfj2m8w7225q1"
+  },
+  {
+    "name":"hashtbl",
+    "ver":"0.0.2",
+    "fetcher":"git",
+    "desc":"Pure and impure hash tables",
+    "url":"https://github.com/gergo-/hashtbl.git",
+    "sha256":"157xsbfix3iz63bwxx96kx2s5rd35hf46akwr5nfxwqwvhy87rxn"
+  },
+  {
+    "name":"hdt",
+    "ver":"0.5.4",
+    "fetcher":"git",
+    "desc":"Access RDF HDT files",
+    "url":"https://github.com/JanWielemaker/hdt.git",
+    "sha256":"1whylfpad4kik0bck5wkp7x8h5zvvdb0pdby3km8wc57pajmfs1y"
+  },
+  {
+    "name":"hello_world",
+    "ver":"0.1",
+    "fetcher":"git",
+    "desc":"Hello World pack as a test",
+    "url":"https://github.com/rrooij/prolog_pack_hello_world.git",
+    "sha256":"1w1aqm2gjgr8brz604fbyb0br8xdxysaa8r62c6646dckhy267x5"
+  },
+  {
+    "name":"hilog",
+    "ver":"1.1.118",
+    "fetcher":"git",
+    "desc":"XSB-Prolog's Hilog Syntax in SWI-Prolog",
+    "url":"https://github.com/TeamSPoon/hilog.git",
+    "sha256":"0380h2dd0wi6n0pbliv8hmmdxxywxnxw2fb13piicmwmbn0zw5r0"
+  },
+  {
+    "name":"hook_hybrid",
+    "ver":"1.1.118",
+    "fetcher":"git",
+    "desc":"Hook assert retract call of *specific* predicates",
+    "url":"https://github.com/TeamSPoon/hook_hybrid.git",
+    "sha256":"0xy7vzzf6jgbx1z2x9qmgkr4icqv3s0fi3wjv0slv0hrnxvhb7ip"
+  },
+  {
+    "name":"http2_client",
+    "ver":"1.0.0",
+    "fetcher":"zip",
+    "desc":"An HTTP/2 client",
+    "url":"https://github.com/jamesnvc/http2_client/archive/v1.0.0.zip",
+    "sha256":"1c49wkq6m3f0iy2369ywa2ybw23sb6cxqqjhrq0iii2nd7hm3gz3"
+  },
+  {
+    "name":"httplog",
+    "ver":"0.5.0",
+    "fetcher":"zip",
+    "desc":"Analyse SWI-Prolog HTTP server log files",
+    "url":"https://github.com/JanWielemaker/httplog/archive/V0.5.0.zip",
+    "sha256":"0h5rix7jvvg2rpdcg83b7nhiwndazh8sy7l0kfi1b412zv6izbkn"
+  },
+  {
+    "name":"identity",
+    "ver":"0.2.2",
+    "fetcher":"zip",
+    "desc":"Registration, login, and role management",
+    "url":"http://github.com/Anniepoo/identity/archive/0.2.2.zip",
+    "sha256":"0fzbam02d2cpbvh8d2pzbrkahf061snk8nch33kfsj7yaxw6gn9h"
+  },
+  {
+    "name":"index_util",
+    "ver":"0.0.2",
+    "fetcher":"zip",
+    "desc":"Prolog index utils",
+    "url":"https://github.com/cmungall/index_util/archive/v0.0.2.zip",
+    "sha256":"1ak7jpkx8y9ciy0xsm52w8r5xx2j51w39zjpyyd53bdm23jshfim"
+  },
+  {
+    "name":"indexed_terms",
+    "ver":"1.0.0",
+    "fetcher":"zip",
+    "desc":"Positional access to terms' arguments",
+    "url":"https://github.com/stassa/indexed_terms/archive/v1.0.0.zip",
+    "sha256":"0g2pzsm6n6r9brx3chihzxcc3g5k2mdj8irpni346qbdmdfsx24n"
+  },
+  {
+    "name":"inotify",
+    "ver":"1.0.0",
+    "fetcher":"git",
+    "desc":"Access Linux inotify API to watch file system changes",
+    "url":"https://github.com/JanWielemaker/inotify.git",
+    "sha256":"0yf50x7wblnjbay2lc5bvzp0zx791np04jpjdqza4nzd5m8z9cy5"
+  },
+  {
+    "name":"instant_prolog_docs",
+    "ver":"2.0.31",
+    "fetcher":"git",
+    "desc":"Magically document prolog source files based on predicate and variable naming conventions",
+    "url":"https://github.com/TeamSPoon/instant_prolog_docs.git",
+    "sha256":"0p9zr66r6zfapgwcgzl666ijni7pk366x9i6f35h9kgqbpja1qhl"
+  },
+  {
+    "name":"interpolate",
+    "ver":"0.1.0",
+    "fetcher":"zip",
+    "desc":"String interpolation",
+    "url":"https://github.com/mndrix/interpolate/archive/v0.1.0.zip",
+    "sha256":"1d3j67pnz54mcwyqk34nfaci2q92qyv24fkjb2fwxqybmkbk1ais"
+  },
+  {
+    "name":"interval",
+    "ver":"0.1",
+    "fetcher":"git",
+    "desc":"Interval arithmetic for SWI-Prolog",
+    "url":"https://github.com/mgondan/interval.git",
+    "sha256":"0ak30lkxs18wh6y3qjcrr5d25l68w7d5xf8glh3kz2nw4m1lnc9q"
+  },
+  {
+    "name":"irc_client",
+    "ver":"1.3.0",
+    "fetcher":"zip",
+    "desc":"Low level interface to IRC clients",
+    "url":"https://github.com/eazar001/irc_client/archive/v1.3.0.zip",
+    "sha256":"18ay82nf4537m4d5j1arlxxyj65nclxfjl116jz5fhvg4w3pz2l4"
+  },
+  {
+    "name":"iso4217",
+    "ver":"1.0.0",
+    "fetcher":"git",
+    "desc":"Access ISO 4217 currency codes",
+    "url":"https://github.com/JanWielemaker/iso4217.git",
+    "sha256":"1i8nidrjf8x29w050grkyxhzli0gnmn64m8i41hpj3aclfbb0avq"
+  },
+  {
+    "name":"jolog",
+    "ver":"0.0.3",
+    "fetcher":"tarball",
+    "desc":"Concurrency via join calculus",
+    "url":"http://packs.ndrix.com/jolog/jolog-0.0.3.tgz",
+    "sha256":"1c0ngnkhjn45mlvfyk6kx2fr0lgbakg43p6nv43vk0wv41560nrg"
+  },
+  {
+    "name":"json_answer",
+    "ver":"0.3",
+    "fetcher":"git",
+    "desc":"Convenience module to convert a prolog query into a JSON answer",
+    "url":"https://github.com/Risto-Stevcev/json_answer.git",
+    "sha256":"1x6z1c0ihphym8nsyzhg5nwnzc315v3nl9gl4by42p3ig53p9lrf"
+  },
+  {
+    "name":"julian",
+    "ver":"0.1.3",
+    "fetcher":"zip",
+    "desc":"Date and time library",
+    "url":"https://github.com/mndrix/julian/archive/v0.1.3.zip",
+    "sha256":"0lnn33p716avzj12physsixa9gs2fd33is9nwa2g32xwhqbhw8nx"
+  },
+  {
+    "name":"julian_lang_en",
+    "ver":"0.0.2",
+    "fetcher":"tarball",
+    "desc":"Parse English language phrases into library(julian) constraints",
+    "url":"http://packs.ndrix.com/julian_lang_en/julian_lang_en-0.0.2.tgz",
+    "sha256":"1sxkw3drkz0k19wip4hvki6ccr8cjvjzpikqnnzg6gffry7zx61h"
+  },
+  {
+    "name":"jwt_io",
+    "ver":"0.0.3",
+    "fetcher":"tarball",
+    "desc":"JWT implementation",
+    "url":"https://gitlab.com/canbican/jwt_io/raw/releases/jwt_io-0.0.3.tgz",
+    "sha256":"09hps6mlsdia1ai6l8271qlpf589r5hk4dfpbaql0hcy36xjlzxc"
+  },
+  {
+    "name":"k8s_client",
+    "ver":"1.1.0",
+    "fetcher":"git",
+    "desc":"kubernetes API client with watcher functionality",
+    "url":"https://github.com/milung/k8s_client.git",
+    "sha256":"1h3xbh3mbhqq2d113035dnmmfrx6mqj1xckc1r1qqibxlyjh6p63"
+  },
+  {
+    "name":"kubepl",
+    "ver":"0.1",
+    "fetcher":"git",
+    "desc":"Kubernetes Client",
+    "url":"https://github.com/honnix/kubepl.git",
+    "sha256":"0imbdqzjzlr4bpwsxsl4dk1nff3jxn63wdmf96wm96iij8dpm71l"
+  },
+  {
+    "name":"lambda",
+    "ver":"1.0.0",
+    "fetcher":"tarball",
+    "desc":"Lambda expressions",
+    "url":"http://www.swi-prolog.org/download/pack/lambda-1.0.0.tgz",
+    "sha256":"0q9pyk3m1v6aq76zw5ib4acgpw6mx1rvgdgg2kghyassri6l1mzp"
+  },
+  {
+    "name":"lambda_abstractions",
+    "ver":"0.2.1",
+    "fetcher":"zip",
+    "desc":"Lambda abstractions",
+    "url":"https://github.com/maurodinuzzo/prolog-lambda-expressions/raw/master/lambda_abstractions-0.2.1.zip",
+    "sha256":"12hz2nh0sqfgicg1cnhnyzn78qrlvy7mp8zza9zrv1fcbgrxjcdq"
+  },
+  {
+    "name":"languages_bot",
+    "ver":"0.0.1",
+    "fetcher":"git",
+    "desc":"A chatbot that talks with the user to recommend some programming language",
+    "url":"https://github.com/raulpy271/languages_bot.git",
+    "sha256":"131l5bz4j0v6b0nc7fkvn59g5275vpzx7x46fvz1lqj8xrw6ark6"
+  },
+  {
+    "name":"lazy_streams",
+    "ver":"0.5.0",
+    "fetcher":"tarball",
+    "desc":"Lazy Stream Generators",
+    "url":"http://www.cse.unt.edu/~tarau/software/lazy_streams-0.5.0.tgz",
+    "sha256":"060ppw6wr1rxb71mg8n5a14j42gi3nxm7xwnry8545wgnmc8bgx6"
+  },
+  {
+    "name":"lbfgs",
+    "ver":"2.0",
+    "fetcher":"git",
+    "desc":"An interface to call libLBFGS from within SWI-Prolog",
+    "url":"https://github.com/friguzzi/lbfgs.git",
+    "sha256":"12bbnraa678746k7kd3apnyazvky3svh885m5157gd96fj7y0lik"
+  },
+  {
+    "name":"lcs",
+    "ver":"0.0.1",
+    "fetcher":"tarball",
+    "desc":"Longest common subsequence",
+    "url":"http://packs.ndrix.com/lcs/lcs-0.0.1.tgz",
+    "sha256":"12a03r6bhxhlr03bibl6326s2hbj2y6cd82kn6clha5v5vp0r2s2"
+  },
+  {
+    "name":"ldap4pl",
+    "ver":"0.1",
+    "fetcher":"git",
+    "desc":"LDAP interface",
+    "url":"https://github.com/EricssonResearch/ldap4pl.git",
+    "sha256":"1sp0wcz2rmsp1jvzn4ps4shr27rnz2smx53q88kk5j48rj3zbbv9"
+  },
+  {
+    "name":"lib",
+    "ver":"2.11",
+    "fetcher":"tarball",
+    "desc":"Predicate based code development",
+    "url":"https://stoics.org.uk/~nicos/sware/packs/lib/lib-2.11.tgz",
+    "sha256":"1hqvxqns96pbfww6mh2myks4af57x71nbpj0bs6v2v0czz2zwfa0"
+  },
+  {
+    "name":"lib_atts",
+    "ver":"1.1.118",
+    "fetcher":"git",
+    "desc":"Common atts.pl interface like https://sicstus.sics.se/sicstus/docs/4.0.0/html/sicstus/lib_002datts.html",
+    "url":"https://github.com/TeamSPoon/lib_atts.git",
+    "sha256":"1k0blx9sp0mnpbmb5c95xrp3gmmxmkvjys58q2bk64win825nxih"
+  },
+  {
+    "name":"libssh",
+    "ver":"0.9.2",
+    "fetcher":"zip",
+    "desc":"Provide an embedded SSH server",
+    "url":"https://github.com/JanWielemaker/libssh/archive/V0.9.2.zip",
+    "sha256":"1hkixrz22mcw2afqvqri48pq8y9hypnlm0nyhzd2brz4zb3vjpsv"
+  },
+  {
+    "name":"liftcover",
+    "ver":"0.1",
+    "fetcher":"git",
+    "desc":"A Probabilistic Indutive Logic Programming system",
+    "url":"https://github.com/friguzzi/liftcover.git",
+    "sha256":"14y5365llwh1fm0zcymp4k1lmfbbsxavbbdm2lkx5z2fnhpvv1xr"
+  },
+  {
+    "name":"link_grammar_prolog",
+    "ver":"4.1.0.3",
+    "fetcher":"zip",
+    "desc":"A binding to use the Link Grammar library from SWI-Prolog",
+    "url":"https://github.com/lains/link_grammar_prolog/releases/download/link_grammar_prolog-4.1.0.3/link_grammar_prolog-4.1.0.3.zip",
+    "sha256":"1swic9kcibcrpy2h0rrmxx746w7pia0w3kfb31k4kzmcidwybx84"
+  },
+  {
+    "name":"list_util",
+    "ver":"0.13.0",
+    "fetcher":"git",
+    "desc":"Predicates for working with lists",
+    "url":"https://github.com/mndrix/list_util.git",
+    "sha256":"1q7iskdv478m9g7cyz6qgy6i70by32bmvz9gxp5g9y36a7prfjdz"
+  },
+  {
+    "name":"log4p",
+    "ver":"0.0.9",
+    "fetcher":"zip",
+    "desc":"Logging for Prolog",
+    "url":"https://github.com/hargettp/log4p/archive/refs/tags/v0.0.9.zip",
+    "sha256":"0i2qm5skk7x8cniy5jb551k8zk2vqsrcqzcmc9i710f88ql59w1j"
+  },
+  {
+    "name":"logicmoo_base",
+    "ver":"2.0.3",
+    "fetcher":"git",
+    "desc":"LogicMOO - Extends Prolog Programming to support Dynamic Epistemic Logic (DEL) with Constraints",
+    "url":"https://github.com/TeamSPoon/logicmoo_base.git",
+    "sha256":"0sa9cjkp2grvprdn928wv66wc7qm7bylw92s5vi9f5dq4isf3mn4"
+  },
+  {
+    "name":"logicmoo_cg",
+    "ver":"2.0.3",
+    "fetcher":"git",
+    "desc":"Conceptual Graph (CG) Libraries in Prolog and test data",
+    "url":"https://github.com/TeamSPoon/logicmoo_cg.git",
+    "sha256":"13mrlsm379kff1mzaacxmrd2phy3dyfrsa5dkrlk6qd5nd0gl357"
+  },
+  {
+    "name":"logicmoo_ec",
+    "ver":"2.0.3",
+    "fetcher":"git",
+    "desc":"Logicmoo Event Calc -- A SWI-Prolog Pack that lets Prolog code seamlessly use planners speaking: LPS, Decreasoner EventCalc, PDDLish and OCLh",
+    "url":"https://github.com/TeamSPoon/logicmoo_ec.git",
+    "sha256":"11hxxl1rv6ig1fg8qz78a06g9gpjyinqry8m3wbwzi1ns0cmn693"
+  },
+  {
+    "name":"logicmoo_nars",
+    "ver":"2.0.3",
+    "fetcher":"git",
+    "desc":"Narsese: Like OpenNARS in Prolog",
+    "url":"https://github.com/TeamSPoon/narsese.git",
+    "sha256":"1jqcb411d299gbl9dgb8fx78hj1aq5rmzymzm0qpks45yiqvm321"
+  },
+  {
+    "name":"logicmoo_nlu",
+    "ver":"2.0.3",
+    "fetcher":"git",
+    "desc":"Various English to Logic Converters - warning: HUGE amount of lexical and test data",
+    "url":"https://github.com/TeamSPoon/logicmoo_nlu.git",
+    "sha256":"0ggx3pka9i9aqk1mq8fk0qsj724mrzra29ni6gw43926340n786p"
+  },
+  {
+    "name":"logicmoo_planners",
+    "ver":"1.1.118",
+    "fetcher":"git",
+    "desc":"Various Hybrid HTN Planners speaking PDDLish and OCLh",
+    "url":"https://github.com/TeamSPoon/logicmoo_planners.git",
+    "sha256":"0hk77ixg4lw34dm591va0hg5drvd3ffpy300aqrd9qs8db3sfnql"
+  },
+  {
+    "name":"logicmoo_utils",
+    "ver":"3.1.5",
+    "fetcher":"git",
+    "desc":"Common predicates that are used throughout LogicMOO Software",
+    "url":"https://github.com/TeamSPoon/logicmoo_utils.git",
+    "sha256":"0fn2p757907qba22bl3b29vk4l4qgkf5xid2rbkknrjqvx390c63"
+  },
+  {
+    "name":"logicmoo_webui",
+    "ver":"2.0.3",
+    "fetcher":"git",
+    "desc":"LogicMOO - The pack that installs the WebUI",
+    "url":"https://github.com/TeamSPoon/logicmoo_webui.git",
+    "sha256":"1ffqfyzrsxy51lkgdrbsw4k2jxw05cfghg5h3dly7zmvfzy0yf73"
+  },
+  {
+    "name":"logicmoo_workspace",
+    "ver":"2.0.3",
+    "fetcher":"git",
+    "desc":"LogicMOO Workspace -- The pack that installs the Logicmoo IDE and WebUI",
+    "url":"https://github.com/TeamSPoon/logicmoo_webui.git",
+    "sha256":"0z150pifzwfx7nrcbncfmj6c9jcma7m5x0py3b10yq1kr19bmd7i"
+  },
+  {
+    "name":"logtalk",
+    "ver":"3.91.1",
+    "fetcher":"tarball",
+    "desc":"Logtalk - Object-Oriented Logic Programming Language",
+    "url":"https://logtalk.org/files/swi-prolog/packs/logtalk-3.91.1.tgz",
+    "sha256":"0m8hfdy4jgcnwna2ys6517bikki2y2z2s76dckr7k9xm8kvf0xfj"
+  },
+  {
+    "name":"loop_check",
+    "ver":"1.1.118",
+    "fetcher":"git",
+    "desc":"New simple loop checking",
+    "url":"https://github.com/TeamSPoon/loop_check.git",
+    "sha256":"0ryfbjdlqcsarq24bjg5qqkc57qwab40ks357ip8qz7hn8dfg511"
+  },
+  {
+    "name":"lps_corner",
+    "ver":"2.0.3",
+    "fetcher":"git",
+    "desc":"LPS Corner with SWISH and Dialect",
+    "url":"https://github.com/TeamSPoon/lps_corner.git",
+    "sha256":"0pldkv36k1inqhgi7808kq3bcl3j5r6nm233463gypd6c21vdlxa"
+  },
+  {
+    "name":"lsp_server",
+    "ver":"3.11.3",
+    "fetcher":"zip",
+    "desc":"A Prolog LSP Server",
+    "url":"https://github.com/jamesnvc/lsp_server/archive/refs/tags/v3.11.3.zip",
+    "sha256":"1kvwd06nwsjdmdvbhc3w0wmpzb6q36b01azx9i3sz60sqx4xajrh"
+  },
+  {
+    "name":"mail_merge",
+    "ver":"1.0.0",
+    "fetcher":"git",
+    "desc":"Library for performing mail merge",
+    "url":"https://github.com/friguzzi/mail_merge.git",
+    "sha256":"1jdyy4f84qp12n5g72rc2yims1v1j0sqyjys935xfz53q84iqw6k"
+  },
+  {
+    "name":"markdown",
+    "ver":"0.0.3",
+    "fetcher":"tarball",
+    "desc":"Markdown parser for SWI-Prolog",
+    "url":"http://packs.rlaanemets.com/markdown/markdown-0.0.3.tgz",
+    "sha256":"1pfx1dwngdkr7pbps6c75nb1zij6rms3w6wx062rnly6y3g3fski"
+  },
+  {
+    "name":"mathml",
+    "ver":"1.4",
+    "fetcher":"git",
+    "desc":"Translates mathematical expressions to compounds that can be used by html//1 (SWISH) or html//3 (normal SWIPL, with pack http/html_write).",
+    "url":"https://github.com/mgondan/mathml.git",
+    "sha256":"0rpqdi58i8pn5l01q2bi48xn0c6lrbm95kg852xxs2kl9i3zai85"
+  },
+  {
+    "name":"matrix",
+    "ver":"2.0",
+    "fetcher":"git",
+    "desc":"Operations with matrices",
+    "url":"https://github.com/friguzzi/matrix.git",
+    "sha256":"0shafms8j5xvy4f5iafba2ik9m5hbvkssfck1mmnmz4p36qmia0l"
+  },
+  {
+    "name":"matrix_utls",
+    "ver":"1.1",
+    "fetcher":"git",
+    "desc":"Matrix utilities: Kronecker (Tensor), Hadamard, and matrices creation/multiplications",
+    "url":"https://github.com/albayaty/matrix_utls.git",
+    "sha256":"0h06fb9gfw90z9x1r348jam7xh8znzma98hl93489116pygs7azh"
+  },
+  {
+    "name":"mavis",
+    "ver":"0.2.3",
+    "fetcher":"git",
+    "desc":"Optional type declarations",
+    "url":"https://github.com/GavinMendelGleason/mavis.git",
+    "sha256":"1mfnln31xzlg0nfc6mssjk1amnhxwdmid34292012l6lkka9yg74"
+  },
+  {
+    "name":"maybe",
+    "ver":"0.1.1",
+    "fetcher":"tarball",
+    "desc":"The maybe type represents an optional value",
+    "url":"http://packs.ndrix.com/maybe/maybe-0.1.1.tgz",
+    "sha256":"1z0hnh3z7s55xb2j9wid7dac4hkmviraylkfp0w7p5xl5yq855k4"
+  },
+  {
+    "name":"medikit",
+    "ver":"0.0.7",
+    "fetcher":"zip",
+    "desc":"meditans' personal utilities",
+    "url":"https://github.com/meditans/medikit/archive/v0.0.7.zip",
+    "sha256":"1dgax6axb3760fxsrvbjmzwij7rhh842v9b6zyljlcj6aljld5lq"
+  },
+  {
+    "name":"memo",
+    "ver":"0.6.1",
+    "fetcher":"tarball",
+    "desc":"Persistent memoisation of deterministic predicates",
+    "url":"https://raw.githubusercontent.com/samer--/prolog/master/memo/release/memo-0.6.1.tgz",
+    "sha256":"1qp0ba3qavnasj9gbr6c03gvwj0pqm0jnckh8i25i6q644yma1jx"
+  },
+  {
+    "name":"midiutils",
+    "ver":"0.0.3",
+    "fetcher":"tarball",
+    "desc":"midiutils",
+    "url":"https://raw.githubusercontent.com/samer--/prolog/master/midiutils/release/midiutils-0.0.3.tgz",
+    "sha256":"1mdfjbvh4193xy2cyzjhnwbfh6k06byf2lijfvwp65hhhi0xgg6q"
+  },
+  {
+    "name":"mime",
+    "ver":"0.5.0",
+    "fetcher":"zip",
+    "desc":"MIME processing library based on maildrop",
+    "url":"https://github.com/JanWielemaker/mime/archive/V0.5.0.zip",
+    "sha256":"0j5vpbl4p6402mhyb45nw153j4l8hisg1kc0ncg7m1x8sv4ipps3"
+  },
+  {
+    "name":"mlu",
+    "ver":"0.5",
+    "fetcher":"tarball",
+    "desc":"Machine learning utilities",
+    "url":"https://stoics.org.uk/~nicos/sware/packs/mlu/mlu-0.5.tgz",
+    "sha256":"1nyz6vrl81cag0zh7hhp0kmbkh7r33c04y2b992k3xwxhxjrwyqq"
+  },
+  {
+    "name":"modeling",
+    "ver":"1.1.5",
+    "fetcher":"zip",
+    "desc":"MiniZinc-inspired modeling predicates in Prolog.",
+    "url":"https://lifeware.inria.fr/~fages/modeling-1.1.5.zip",
+    "sha256":"0gzi7gk1waaza7rfi3r3mg7al96jhngjw4ngfg6wwlq3ypm7bd3w"
+  },
+  {
+    "name":"morfeusz",
+    "ver":"0.1.4",
+    "fetcher":"git",
+    "desc":"Morfeusz2 bindings for SWI-Prolog.",
+    "url":"https://github.com/lasamlai/morfeusz.git",
+    "sha256":"1gd9pplxh5pj6dcdxjqv5jfh5izzzjc5gn7r2xdi2vqsqby03k07"
+  },
+  {
+    "name":"mpi",
+    "ver":"1.0",
+    "fetcher":"git",
+    "desc":"Porting of the LAMMPI library of Yap Prolog to SWI-Prolog",
+    "url":"https://github.com/friguzzi/mpi.git",
+    "sha256":"10whpr7md4x8iqmdbxcfhps1l69rvvdkbwb3qpglfnnahwc2d85c"
+  },
+  {
+    "name":"mqtt",
+    "ver":"1.0.5",
+    "fetcher":"zip",
+    "desc":"mqtt - pub/sub pack for SWI-Prolog using mosquitto",
+    "url":"https://github.com/olsky/swi-mqtt-pack/releases/download/v1.0.5/mqtt-1.0.5.zip",
+    "sha256":"1il7w1065xn1nls6b51ijwhnjb2j6qwfni2khzhgmkf5l660s6p7"
+  },
+  {
+    "name":"msgpackc",
+    "ver":"0.2.2",
+    "fetcher":"git",
+    "desc":"C-Based MessagePack for SWI-Prolog",
+    "url":"https://github.com/swipl/msgpackc.git",
+    "sha256":"0jp2bhlr4a7g7xvz10307jgx8y6bmhc9q8l8c6d7yysagzwl8i1f"
+  },
+  {
+    "name":"mtx",
+    "ver":"0.6",
+    "fetcher":"tarball",
+    "desc":"Working with data matrices",
+    "url":"http://stoics.org.uk/~nicos/sware/packs/mtx/mtx-0.6.tgz",
+    "sha256":"1w04jfa5h7809xmjfp53ywicrq6b5k6i0xdlrdizr56fnq0di3sw"
+  },
+  {
+    "name":"multimodal_dcg",
+    "ver":"2.0.3",
+    "fetcher":"git",
+    "desc":"Reduce floundering of DCGs by constraining and narrowing search",
+    "url":"https://github.com/TeamSPoon/multimodal_dcg.git",
+    "sha256":"0lw7zkk2j95gy1pww1ip126a46gqhcbzh6kd63wf4jli2dc3n0aj"
+  },
+  {
+    "name":"musicbrainz",
+    "ver":"0.7.0",
+    "fetcher":"tarball",
+    "desc":"Musicbrainz client library",
+    "url":"https://github.com/samer--/prolog/raw/master/musicbrainz/release/musicbrainz-0.7.0.tgz",
+    "sha256":"1brqs3niysy68c17ijnh7ws1f07s0wcpsm2i9cmb8nqazbls6vj9"
+  },
+  {
+    "name":"musicxml",
+    "ver":"0.0.2",
+    "fetcher":"tarball",
+    "desc":"MusicXML partial reader",
+    "url":"https://raw.githubusercontent.com/samer--/prolog/master/musicxml/release/musicxml-0.0.2.tgz",
+    "sha256":"13gl9qhabilxzz2f3izpc4zy2bilwnvnvcaxrm971zrhx9bqa8z8"
+  },
+  {
+    "name":"must_trace",
+    "ver":"1.1.118",
+    "fetcher":"git",
+    "desc":"Trace with your eyeballs instead of your fingers",
+    "url":"https://github.com/TeamSPoon/must_trace.git",
+    "sha256":"1yd73j4hr1hmbi6saz0ydlabap8bxvhwlq9326rh907b8f07pf4g"
+  },
+  {
+    "name":"mutable_variables",
+    "ver":"1.0.0",
+    "fetcher":"zip",
+    "desc":"Mutable Variables",
+    "url":"https://people.cs.kuleuven.be/tom.schrijvers/tor/mutable_variables-1.0.0.zip",
+    "sha256":"1d173lfwpjxcp7ghhk3s1yv4b9pnvwb0hh6ya8p2msz03azf53zm"
+  },
+  {
+    "name":"nan_common",
+    "ver":"1.2",
+    "fetcher":"zip",
+    "desc":"Common operations (validation, etc.)",
+    "url":"http://julio.diegidio.name/Projects/Prolog/Download/nan_common-1.2.zip",
+    "sha256":"0ri9x9rix817zxvwik2j109f6s1c4f146w1rzl574ac57yrgydbp"
+  },
+  {
+    "name":"nan_numerics_prime",
+    "ver":"1.2.5",
+    "fetcher":"zip",
+    "desc":"Nan.Numerics.Prime - A simple prime number library",
+    "url":"https://github.com/jp-diegidio/Nan.Numerics.Prime-Prolog/releases/download/1.2.5-beta/nan_numerics_prime-1.2.5.zip",
+    "sha256":"12f8gdj1vmz4dv0jr7kvfsdjm4qj26ryymcb98s8005kb9wmx9jj"
+  },
+  {
+    "name":"nan_system_sources",
+    "ver":"1.2.0",
+    "fetcher":"zip",
+    "desc":"Nan.System.Sources - Answer Sources in Prolog",
+    "url":"https://github.com/jp-diegidio/Nan.System.Sources-Prolog/releases/download/1.2.0-beta/nan_system_sources-1.2.0.zip",
+    "sha256":"1j6md4lc21qq6s95kkymmisnrmixghacx8148zqq1902jnpi01wv"
+  },
+  {
+    "name":"nanp",
+    "ver":"0.1.0",
+    "fetcher":"zip",
+    "desc":"phone numbers in the North American Numbering Plan",
+    "url":"https://github.com/mndrix/nanp/archive/v0.1.0.zip",
+    "sha256":"05i94cpnv0r8r3g8nr78ghq55ll0800d3bb9gzwgy91k2wrzjhbi"
+  },
+  {
+    "name":"narsese",
+    "ver":"2.0.3",
+    "fetcher":"git",
+    "desc":"Narsese: Like OpenNARS in Prolog",
+    "url":"https://github.com/TeamSPoon/narsese.git",
+    "sha256":"1rf8a491psbnncc4gyv5kcnhy5dnbpn5jc6wcv1vnibgiqjg6v4n"
+  },
+  {
+    "name":"ninja",
+    "ver":"0.2",
+    "fetcher":"zip",
+    "desc":"Ninja build system generator",
+    "url":"https://github.com/kwon-young/ninja/archive/v0.2.zip",
+    "sha256":"1gr0wlp0izcsn6bxd66akc6kyjjdnwhmqhdg5dlgf20d2880jlmr"
+  },
+  {
+    "name":"no_repeats",
+    "ver":"1.1.118",
+    "fetcher":"git",
+    "desc":"New ways to avoid duplicate solutions",
+    "url":"https://github.com/TeamSPoon/no_repeats.git",
+    "sha256":"1vxl6crk03kn9ly1866zxrvkikl8kj9hkpn367s70r00247i0sl8"
+  },
+  {
+    "name":"notes800",
+    "ver":"0.1.0",
+    "fetcher":"zip",
+    "desc":"Query phone number data from 800notes.com",
+    "url":"https://github.com/mndrix/notes800/archive/v0.1.0.zip",
+    "sha256":"0nimn3ld74lsl47ccmm5rangvykcfssy9cc21dqg67kp2fis6a1k"
+  },
+  {
+    "name":"number_to_word",
+    "ver":"0.4.2",
+    "fetcher":"zip",
+    "desc":"Integer to English word conversions",
+    "url":"https://github.com/eazar001/number_to_word/archive/v0.4.2.zip",
+    "sha256":"1yq42yv5bc6h1j0rg2vvh5wij41h0sjg5mn6pxsq40dds1njg8kx"
+  },
+  {
+    "name":"obo_core",
+    "ver":"0.0.1",
+    "fetcher":"zip",
+    "desc":"Vocab for upper parts of core OBOs such as GO",
+    "url":"https://github.com/cmungall/obo_core/archive/v0.0.1.zip",
+    "sha256":"0pjwqdvdjiww57llqaq597hzv3izicgfb8945l8ylkm13v9kig4j"
+  },
+  {
+    "name":"obo_metadata",
+    "ver":"0.0.4",
+    "fetcher":"zip",
+    "desc":"RDF vocabulary for OBO metadata ontologies",
+    "url":"https://github.com/cmungall/obo_metadata/archive/v0.0.4.zip",
+    "sha256":"1fqdycr4mhkagm5s9pmgdnhvrad78q1j145bqmn4s2ws7s6kivd9"
+  },
+  {
+    "name":"obo_ro",
+    "ver":"0.0.1",
+    "fetcher":"zip",
+    "desc":"Vocab for OBO Relation Ontology",
+    "url":"https://github.com/cmungall/obo_ro/archive/v0.0.1.zip",
+    "sha256":"1gvxqkbmlis7x28ij2c0wmniizc0ml0avfp4amnhcj3a3rgv9daj"
+  },
+  {
+    "name":"odf_sheet",
+    "ver":"0.2.4",
+    "fetcher":"tarball",
+    "desc":"Load and analyze ODF spreadsheets (.ods)",
+    "url":"https://www.swi-prolog.org/download/pack/odf_sheet-0.2.4.tgz",
+    "sha256":"03g0ssdc1dlwxvgfzmsiwhy6rn40qkmv93zdgfvny6pyw6wsr0vq"
+  },
+  {
+    "name":"onepointfour_basics",
+    "ver":"0.9",
+    "fetcher":"tarball",
+    "desc":"Some basic predicates that may be useful. Includes a replacement of must_be/2 and a dict prettyprinter",
+    "url":"https://github.com/dtonhofer/prolog_code/raw/main/packed/onepointfour_basics-0.9.tgz",
+    "sha256":"0fmc4h6js074d997vcc8cxxskq60a1qhh61zzjbli5f7j5qx0nhd"
+  },
+  {
+    "name":"ontodot",
+    "ver":"0.1.1",
+    "fetcher":"zip",
+    "desc":"Create dot files from an RDF ontology.",
+    "url":"https://bitbucket.org/cnngimenez/ontodot/get/ontodot-0.1.1.zip",
+    "sha256":"1zpbqcryhqh8xp9jnghj76i5mjyw3lx75j5r4ayx7zm8qwn789g1"
+  },
+  {
+    "name":"ontoweb",
+    "ver":"0.0.4",
+    "fetcher":"zip",
+    "desc":"Show an ontology through a Web service.",
+    "url":"https://bitbucket.org/cnngimenez/ontoweb/get/ontoweb-0.0.4.zip",
+    "sha256":"0i17xl9n597wjy1n1q0y9aly8cyzhii8lkxm2s46f3x3ggksri44"
+  },
+  {
+    "name":"open_dicts",
+    "ver":"0.0.1",
+    "fetcher":"git",
+    "desc":"Open dicts for SWI Prolog",
+    "url":"https://github.com/edechter/open_dicts.git",
+    "sha256":"1ql6ki5zj7ycl81wf3v5232dpkvdlr0ibdh0fayvcjmwvl3il3zy"
+  },
+  {
+    "name":"openapi",
+    "ver":"0.8.0",
+    "fetcher":"git",
+    "desc":"OpenAPI (Swagger) interface",
+    "url":"https://github.com/JanWielemaker/openapi.git",
+    "sha256":"1y049gn8s8d3d5z8xzak830c7vrw90lg5alln6a90drwb88r8ala"
+  },
+  {
+    "name":"options",
+    "ver":"1.5",
+    "fetcher":"tarball",
+    "desc":"Options handling.",
+    "url":"https://stoics.org.uk/~nicos/sware/packs/options/options-1.5.tgz",
+    "sha256":"1nxayrm77v84vzb831hsfkyc1dmpz3934pz80z4f3yvh1vm7gysa"
+  },
+  {
+    "name":"orgref_fix",
+    "ver":"0.1.2",
+    "fetcher":"zip",
+    "desc":"Fix Org-ref citations.",
+    "url":"https://bitbucket.org/cnngimenez/swi-orgref_fix/get/orgref_fix-0.1.2.zip",
+    "sha256":"09hbf422y74ix58rk4is3aky4wgqia5jxsahdrljqbrrypzzanrk"
+  },
+  {
+    "name":"os_lib",
+    "ver":"1.5",
+    "fetcher":"tarball",
+    "desc":"Operating system interaction predicates.",
+    "url":"http://stoics.org.uk/~nicos/sware/packs/os_lib/os_lib-1.5.tgz",
+    "sha256":"00f97ah73albj3baf8dv0ghlgj7ybkqxrkr8k1zz1fahmpiadnaq"
+  },
+  {
+    "name":"pPEG",
+    "ver":"2.0.0",
+    "fetcher":"git",
+    "desc":"Pack to support parsing text using pPEG grammars",
+    "url":"https://github.com/ridgeworks/pPEGpl.git",
+    "sha256":"1q86a9sjnrlggw9sycyxqgni61h4s7d83zlnkzf4k8skxqjr736g"
+  },
+  {
+    "name":"pac",
+    "ver":"1.9.8",
+    "fetcher":"tarball",
+    "desc":"Anonymous predicates expansion utility",
+    "url":"http://web.sfc.keio.ac.jp/~mukai/pac-1.9.8.tgz",
+    "sha256":"0p4x0zc0fk357dba197q03k2kxjfgwppyciclr9qy6hlckqpp4kq"
+  },
+  {
+    "name":"pac4pl",
+    "ver":"0.1",
+    "fetcher":"zip",
+    "desc":"An SWI-Prolog interface to libPAC",
+    "url":"https://github.com/thetrime/pac4pl/archive/0.1.zip",
+    "sha256":"0qj0zvph84pllrwcr8h4g6aap8jl822llg79z40byxfgjcj1n6hk"
+  },
+  {
+    "name":"pack_errors",
+    "ver":"2.2",
+    "fetcher":"tarball",
+    "desc":"Contextual error handling for packs.",
+    "url":"https://stoics.org.uk/~nicos/sware/packs/pack_errors/pack_errors-2.2.tgz",
+    "sha256":"0pyg7zd5rfvpncbxx9f30d0bgzj18kphnhffw8wjync53ps0568r"
+  },
+  {
+    "name":"pager",
+    "ver":"0.1.0",
+    "fetcher":"zip",
+    "desc":"Send output to user's preferred pager",
+    "url":"https://github.com/mndrix/pager/archive/v0.1.0.zip",
+    "sha256":"03kl7j8dfyg82ka2prybzz05803lc9s1dqg3h1vxpwfg6bs6hkav"
+  },
+  {
+    "name":"pascal",
+    "ver":"1.0",
+    "fetcher":"git",
+    "desc":"Probabilistc inductive constraint logic",
+    "url":"https://github.com/friguzzi/pascal.git",
+    "sha256":"149nqcg9d2w4z7k9xfflpcka8h9kcxw9740vliia7fyybfm5161m"
+  },
+  {
+    "name":"pcache",
+    "ver":"0.1.0",
+    "fetcher":"zip",
+    "desc":"Persistent answer cache",
+    "url":"https://github.com/JanWielemaker/pcache/archive/V0.1.0.zip",
+    "sha256":"0fbfkp96il12dsc6msfl1n4mz9042javwbf8k6gaf2n51kx5d8pb"
+  },
+  {
+    "name":"pddl_valoptic_api",
+    "ver":"1.1.118",
+    "fetcher":"git",
+    "desc":"pddl_valoptic_api -- A SWI-Prolog Pack that lets Prolog code seamlessly use PDDL based planners.",
+    "url":"https://github.com/TeamSPoon/pddl_valoptic_api.git",
+    "sha256":"0y9j31s32kdpchbkf5cwzy7y47ncfapcm4v0n2anhbv4x3fp87ah"
+  },
+  {
+    "name":"peg_syntax",
+    "ver":"1.0",
+    "fetcher":"git",
+    "desc":"PEG syntax for prolog",
+    "url":"https://github.com/lasamlai/peg_syntax.git",
+    "sha256":"0vfr92gs878180nlxq4j4gzlb4f68as15xrag9rk2rkrfj319mlc"
+  },
+  {
+    "name":"pepl",
+    "ver":"2.3",
+    "fetcher":"tarball",
+    "desc":"Parameter estimation for SLP with the Failure Adjusted Maximisation algorithm.",
+    "url":"https://stoics.org.uk/~nicos/sware/packs/pepl/pepl-2.3.tgz",
+    "sha256":"1i6xrrzgklba16naw5ac1mqkh43znfzmv2arqdd1l3bp76linpmx"
+  },
+  {
+    "name":"perfunctory_types",
+    "ver":"0.2",
+    "fetcher":"zip",
+    "desc":"Per-functor, static, polymorphic types",
+    "url":"http://github.com/GeoffChurch/perfunctory_types/archive/0.2.zip",
+    "sha256":"0d00pn35xmz83cmp2bvzzpvv1ba8k9jnwks79y42aiqw1jmy0k82"
+  },
+  {
+    "name":"persist",
+    "ver":"0.3",
+    "fetcher":"git",
+    "desc":"Persists facts into a file",
+    "url":"https://github.com/Risto-Stevcev/prolog_persist.git",
+    "sha256":"0zzg189zg8mdi5kxc4dyl0m1hlc4g505531hjawfmj71nlxy4lyk"
+  },
+  {
+    "name":"pfc",
+    "ver":"3.0.3",
+    "fetcher":"git",
+    "desc":"Pfc -- a package for forward chaining in Prolog",
+    "url":"https://github.com/TeamSPoon/pfc.git",
+    "sha256":"0f0dlsl60s3h0vwqp61ifz1p1sap6rsx8bcjvbpfjhcjf1jwvm9v"
+  },
+  {
+    "name":"pfd_meta",
+    "ver":"0.1",
+    "fetcher":"tarball",
+    "desc":"Probabilistic finite domains meta-interpreter",
+    "url":"http://stoics.org.uk/~nicos/sware/packs/pfd_meta/pfd_meta-0.1.tgz",
+    "sha256":"1kqpgk679zv75zdpsljc4ysp4qv9vp6an6wxs9bg9w903n5aj1cz"
+  },
+  {
+    "name":"pha",
+    "ver":"0.1.2",
+    "fetcher":"git",
+    "desc":"Probabilistic Horn Abduction",
+    "url":"https://github.com/samer--/pha.git",
+    "sha256":"14jqx9h66qjj2ci9kwvrfl5g0qq5amlnh72whqkczv4zjj2cmkj7"
+  },
+  {
+    "name":"phil",
+    "ver":"1.0.0",
+    "fetcher":"git",
+    "desc":"Learning Hierarchical Probabilistic Logic Programs",
+    "url":"https://github.com/ArnaudFadja/phil.git",
+    "sha256":"0kybwfl070slcgscayc6d4a3ib26nlzpbzqw0j4q6z0ja1p01ynj"
+  },
+  {
+    "name":"phil_datasets",
+    "ver":"1.0",
+    "fetcher":"zip",
+    "desc":"Dataset for machine learning with phil",
+    "url":"https://github.com/ArnaudFadja/phil_datasets/archive/v1.0.zip",
+    "sha256":"0ywf95gjzazwqdcybjl50bb2b2d914np3xihwby5yagsx6025q5h"
+  },
+  {
+    "name":"pinyin",
+    "ver":"0.1.5",
+    "fetcher":"git",
+    "desc":"Parsing and generation of Hanyu Pinyin",
+    "url":"https://github.com/texttheater/pinyin.git",
+    "sha256":"059pinjylmd0hbj9kc83wy83hh4zpkg5h4x3h7g8w7fqnfzz9m4g"
+  },
+  {
+    "name":"plOpenGL",
+    "ver":"0.6.2",
+    "fetcher":"zip",
+    "desc":"OpenGL Bindings",
+    "url":"http://www.sebity.com/downloads/plOpenGL-0.6.2.zip",
+    "sha256":"0r4abij47wks0ssix7bbgr9h72apicpcddl4r1xxpnm2m4pid6rd"
+  },
+  {
+    "name":"pl_mustache",
+    "ver":"1.0.0",
+    "fetcher":"git",
+    "desc":"Mustache",
+    "url":"https://github.com/milung/pl_mustache.git",
+    "sha256":"13j0gngl5v22nkzz8axx5f4j50mqfw0rrz09ar6i2jb9f33fxl89"
+  },
+  {
+    "name":"pl_omdb",
+    "ver":"0.5.0",
+    "fetcher":"zip",
+    "desc":"API interface to OMDB (Open Movie Database)",
+    "url":"https://github.com/eazar001/pl_omdb/archive/v0.5.0.zip",
+    "sha256":"169if1yhs52zx66mdmas39hkxblrd5v2v04nwvgycv161yajv6kr"
+  },
+  {
+    "name":"pl_owl",
+    "ver":"0.1.0",
+    "fetcher":"git",
+    "desc":"OWL utility predicates over rdf library",
+    "url":"https://github.com/milung/pl_owl.git",
+    "sha256":"1pqrjb4rw4dw23lrv7nrdvbaxk6kpj76jw1pssbzpvbidabypazy"
+  },
+  {
+    "name":"plammar",
+    "ver":"1.0.2",
+    "fetcher":"git",
+    "desc":"Prolog parser and serialiser written in Prolog",
+    "url":"https://github.com/fnogatz/plammar.git",
+    "sha256":"1d0agjrf1fisckjldvx2a132vw0xhr2dnxy1cd9wx3jrv4wx023a"
+  },
+  {
+    "name":"planner_api",
+    "ver":"1.1.118",
+    "fetcher":"git",
+    "desc":"planner_api -- A SWI-Prolog Pack that lets Prolog code seamlessly use planners speaking PDDLish and OCLh",
+    "url":"https://github.com/TeamSPoon/pddl_valoptic_api.git",
+    "sha256":"0ygd5c37h8j30g2k14dra3y07h3dmhqbz3c9dqbf4di2nkf1yl4q"
+  },
+  {
+    "name":"plasticsearch",
+    "ver":"0.1",
+    "fetcher":"git",
+    "desc":"Elasticsearch client API",
+    "url":"https://github.com/EricssonResearch/plasticsearch.git",
+    "sha256":"17nqcciq9s7m1463b1rvh5fjz1y86yr40729757sbcgg88g3p1yd"
+  },
+  {
+    "name":"plblas",
+    "ver":"0.1",
+    "fetcher":"git",
+    "desc":"lapack/armadillo binding for SWI-Prolog",
+    "url":"https://github.com/mgondan/plblas.git",
+    "sha256":"0pdkyd75pjymlrfa97iyi6bwgjhhfw86lwfg7sm31ickvwgkvjsv"
+  },
+  {
+    "name":"plcal",
+    "ver":"0.0.5",
+    "fetcher":"git",
+    "desc":"Programming Calendar",
+    "url":"https://gitlab.com/PiotrLi/plcal.git",
+    "sha256":"1p1imvwl6jxhyy5xwxjk5pnl3f2q6maa14bmgpgw01sam5qfycys"
+  },
+  {
+    "name":"plcomplex",
+    "ver":"0.3",
+    "fetcher":"git",
+    "desc":"Simple calculation of complex numbers",
+    "url":"https://github.com/PiotrLi/plcomplex.git",
+    "sha256":"10rrxvq321y4l88xmxkxrlb9y8dvinavvm73qyc8qwzqw57i7hl9"
+  },
+  {
+    "name":"plfann",
+    "ver":"0.0.2",
+    "fetcher":"git",
+    "desc":"SWI-Prolog for \"Fast Artificial Neural Network Library\"",
+    "url":"https://github.com/PiotrLi/plfann.git",
+    "sha256":"1z38rp2qwk9d1i5dznvif5rb5aw1xzvrwbzw5mn3dimflzdx69j4"
+  },
+  {
+    "name":"pljulia",
+    "ver":"0.1.4",
+    "fetcher":"git",
+    "desc":"Embedded Julia for SWI Prolog",
+    "url":"https://github.com/samer--/pljulia.git",
+    "sha256":"0fqlyvkhvjwp2rvvnljnz43r5czkfk1glaxjvd6rvfhp162acm2m"
+  },
+  {
+    "name":"plmidi",
+    "ver":"0.7.0",
+    "fetcher":"git",
+    "desc":"Interface to Mac OS X MIDI system",
+    "url":"http://github.com/samer--/plmidi.git",
+    "sha256":"17py11zyrkxf0yvazp6qwpvczjbl47890v2fq3f4p628h7mm4d23"
+  },
+  {
+    "name":"plml",
+    "ver":"2.0.3",
+    "fetcher":"git",
+    "desc":"Prolog-Matlab bridge",
+    "url":"https://github.com/samer--/plml.git",
+    "sha256":"0v68xsn9paldcxlwd0z1696d07c6fzk36gpmla8kcl2jdf4145c3"
+  },
+  {
+    "name":"plosc",
+    "ver":"0.4.6",
+    "fetcher":"git",
+    "desc":"OSC input/output via liblo",
+    "url":"https://github.com/samer--/plosc.git",
+    "sha256":"0djjlnjazpaj2fhxmwlj1xj37id85amphpkav60k9qraskbnvgiw"
+  },
+  {
+    "name":"plplot",
+    "ver":"0.0.1",
+    "fetcher":"git",
+    "desc":"A library to plot data using gnuplot.",
+    "url":"https://github.com/damianoazzolini/plplot.git",
+    "sha256":"0hsvfx3v187llnngrsv3yrfcgbzjpplnpjkzn1r9j68kjx8cipaa"
+  },
+  {
+    "name":"plrand",
+    "ver":"0.9.13",
+    "fetcher":"git",
+    "desc":"Skippable pseudorandom generator and distributions",
+    "url":"https://github.com/samer--/plrand.git",
+    "sha256":"1ld8qbpanzi4naxagwm33csxi06i3jg1ylpxph9zyfnlw4p1f9n2"
+  },
+  {
+    "name":"plsmf",
+    "ver":"0.5.0",
+    "fetcher":"git",
+    "desc":"Standard MIDI File reading",
+    "url":"https://github.com/samer--/plsmf.git",
+    "sha256":"1bn7qhwhc3vsmz8lnkcm6zxkn14246axqqfh907b6cvmjix2jahl"
+  },
+  {
+    "name":"plstat",
+    "ver":"1.0",
+    "fetcher":"git",
+    "desc":"plstat - Statistics with Prolog",
+    "url":"https://github.com/damianoazzolini/plstat.git",
+    "sha256":"1kq0v6lcb05na6iijxrrv85zh17s93spcz4627s8yi8br56204f3"
+  },
+  {
+    "name":"plumdrum",
+    "ver":"0.0.6",
+    "fetcher":"tarball",
+    "desc":"Parsing of Humdrum/Kern symbolic music file format",
+    "url":"https://raw.githubusercontent.com/samer--/prolog/master/plumdrum/release/plumdrum-0.0.6.tgz",
+    "sha256":"0als4cv6s1ickpagcl4xl13lxpyklsbw74nnb5fg8ww06fvnw2rl"
+  },
+  {
+    "name":"pluuid",
+    "ver":"2.0.0",
+    "fetcher":"zip",
+    "desc":"Generating and parsing version 4 UUIDs in Pure Prolog",
+    "url":"https://github.com/jamesnvc/pluuid/archive/v2.0.0.zip",
+    "sha256":"13kjjn2sgyxqjaq1v1lqq3k37dsxijvm8pqgl9k5rh41f7lpvnk5"
+  },
+  {
+    "name":"predicate_streams",
+    "ver":"3.0.3",
+    "fetcher":"git",
+    "desc":"Implement your own Abstract Predicate Streams",
+    "url":"http://github.com/TeamSPoon/predicate_streams.git",
+    "sha256":"1zs3ms1bj3sax44pdhflgbg1b1m0ln4iz3l8c22v60raki2mrnay"
+  },
+  {
+    "name":"print_table",
+    "ver":"0.0.5",
+    "fetcher":"git",
+    "desc":"Formats and prints a table on the terminal screen",
+    "url":"https://github.com/grsjst/print_table.git",
+    "sha256":"1m8rsx8lg0n9pc9p9s1damw3fncayp9wp4q527nv543iyw51grb9"
+  },
+  {
+    "name":"prism",
+    "ver":"0.2.1",
+    "fetcher":"git",
+    "desc":"Run PRISM as a child process",
+    "url":"https://github.com/samer--/prism.git",
+    "sha256":"03b7vryn4qd71jskbc5j63j9c80d7i4macmqhc1dww84v43f3jcj"
+  },
+  {
+    "name":"pro2sql",
+    "ver":"0.1.0",
+    "fetcher":"zip",
+    "desc":"Lightweight translater of Prolog to SQL SELECT statements",
+    "url":"https://github.com/RdR1024/pro2sql/raw/main/rel/pro2sql-0.1.00.zip",
+    "sha256":"175kv99gnbzg8adfv28ysyfpxjzx9brnc5hxi0afbpdgqh4briv1"
+  },
+  {
+    "name":"probat",
+    "ver":"0.1",
+    "fetcher":"git",
+    "desc":"probat - Property based testing Prolog programs.",
+    "url":"https://github.com/damianoazzolini/probat.git",
+    "sha256":"1fj41y4q7gidankq42gh7k80skpq5m3w2z4xpv3f03694bpkpy8k"
+  },
+  {
+    "name":"programk",
+    "ver":"2.0.3",
+    "fetcher":"git",
+    "desc":"AIML 2.0 - Because an AIML Interpreter/Chatbot needed to exist in Prolog to!",
+    "url":"https://github.com/logicmoo/programk.git",
+    "sha256":"0s7p5mvaf9qqsdxblbw56pv5cf3c16ivck9q3mphxznkz03fxm09"
+  },
+  {
+    "name":"progress_bar",
+    "ver":"0.0.5",
+    "fetcher":"git",
+    "desc":"Progress-bar and spinner (text-based)",
+    "url":"https://github.com/grsjst/progress_bar.git",
+    "sha256":"17vcxwgscir9jkwhgjk5yrx5v0q7vzlm62fwjxg4yqgn8lr45fbq"
+  },
+  {
+    "name":"prolog2gpt",
+    "ver":"0.1.0",
+    "fetcher":"zip",
+    "desc":"Library of prolog predicates to access the GPT API",
+    "url":"https://github.com/RdR1024/prolog2gpt/raw/main/rel/prolog2gpt-0.1.00.zip",
+    "sha256":"1xz96bx6g1hrzkw0np2fg9if9japk3i7l2119v8sfzy00c1spl07"
+  },
+  {
+    "name":"prolog_geo",
+    "ver":"1.0.7",
+    "fetcher":"zip",
+    "desc":"Geospatial support in Prolog",
+    "url":"https://github.com/wouterbeek/prolog_geo/archive/1.0.7.zip",
+    "sha256":"0p5lvvzvk8dmvkd1ic6pkx4n4zw1yxkd73pfjh7d7ql27fiyd92j"
+  },
+  {
+    "name":"prolog_graphviz",
+    "ver":"1.0.5",
+    "fetcher":"zip",
+    "desc":"Prolog-based graph visualization",
+    "url":"https://github.com/wouterbeek/prolog_graphviz/archive/1.0.5.zip",
+    "sha256":"0y9qf42j14wvrrj58p7s4mx2f0zqazxs7rrl3gr5mqlsnwxhns4a"
+  },
+  {
+    "name":"prolog_imagemagick",
+    "ver":"1.0.3",
+    "fetcher":"zip",
+    "desc":"Prolog binding for ImageMagick",
+    "url":"https://github.com/wouterbeek/prolog_imagemagick/archive/1.0.3.zip",
+    "sha256":"0bjq8d4ydldriivykdhcinf6jsa3wjs7g18z5zj527gjhjv1s29f"
+  },
+  {
+    "name":"prolog_library_collection",
+    "ver":"1.0.16",
+    "fetcher":"zip",
+    "desc":"Prolog Library Collection",
+    "url":"https://github.com/wouterbeek/prolog_library_collection/archive/1.0.16.zip",
+    "sha256":"0nnllc1l09djix8m3ww4vp0r0bci2dgangbjmnsiab6x3ybc4k5r"
+  },
+  {
+    "name":"prolog_lsp",
+    "ver":"0.0.10",
+    "fetcher":"git",
+    "desc":"Implementation of Language Server Protocol for Prolog",
+    "url":"https://github.com/hargettp/prolog_lsp.git",
+    "sha256":"1d4hqr4j9mmn5y5h6jlwlr250xgwrdg7ls58vkkyl9bqkba3jq6s"
+  },
+  {
+    "name":"prolog_rdf",
+    "ver":"1.0.7",
+    "fetcher":"zip",
+    "desc":"Prolog RDF Library",
+    "url":"https://github.com/wouterbeek/prolog_rdf/archive/1.0.7.zip",
+    "sha256":"066rfp08sgdqigj9pzmhnkmls5l7v2ki556syi64gk8phrcqlcdv"
+  },
+  {
+    "name":"prolog_si",
+    "ver":"0.1",
+    "fetcher":"git",
+    "desc":"Port of the Scryer prolog si module",
+    "url":"https://github.com/Risto-Stevcev/prolog_si.git",
+    "sha256":"0x3sh9idc71zhhqpa4c6wq4470fl64ya97yhzr7prgavmfv09g8h"
+  },
+  {
+    "name":"prolog_starter_project",
+    "ver":"1.0.4",
+    "fetcher":"zip",
+    "desc":"Prolog Starter Project",
+    "url":"https://github.com/wouterbeek/prolog_starter_project/archive/1.0.4.zip",
+    "sha256":"0rsvwvidz8rc78rrbknml6r6ksq61gljla1416q0d1vrcgmi6l41"
+  },
+  {
+    "name":"prolog_uriparser",
+    "ver":"1.0.5",
+    "fetcher":"zip",
+    "desc":"Prolog binding for uriparser",
+    "url":"https://github.com/wouterbeek/prolog_uriparser/archive/1.0.5.zip",
+    "sha256":"193k859idsn0q2cq6nw7vbbwzpqj634cni3hjkpfj7ym6hqh7ylz"
+  },
+  {
+    "name":"prolog_verify_type",
+    "ver":"0.1",
+    "fetcher":"git",
+    "desc":"A more declarative approach to verify the type of a prolog term",
+    "url":"https://github.com/Risto-Stevcev/prolog_verify_type.git",
+    "sha256":"0x4dpdsdx829v0d7sy783x45dcqls5x2gcd5i0if811nmfyq31sm"
+  },
+  {
+    "name":"prologmud",
+    "ver":"2.0.3",
+    "fetcher":"git",
+    "desc":"Online text adventure game - MUD Server",
+    "url":"https://github.com/TeamSPoon/prologmud.git",
+    "sha256":"1bawcb9h3ljz1brip1chr0ai1q5zz539pqawpx80l7jp2i0qm28v"
+  },
+  {
+    "name":"prologmud_I7",
+    "ver":"1.2.111",
+    "fetcher":"git",
+    "desc":"PrologMUD I7 (NomicMU!) with small Adventure Games in Prolog using the CHAT80 Prolog natural language application",
+    "url":"https://github.com/TeamSPoon/small_adventure_games.git",
+    "sha256":"1s7mhm7wl2aa3nkr36yxxcxcclar4b51b1swbacr20mis9c1y4yh"
+  },
+  {
+    "name":"prologmud_samples",
+    "ver":"2.0.3",
+    "fetcher":"git",
+    "desc":"Online text adventure game - Sample",
+    "url":"https://github.com/TeamSPoon/prologmud_samples.git",
+    "sha256":"0vfp3ll34z9gmsr8g6gxbc5lifl0x3c6s7n447ibzjcb81pgs99r"
+  },
+  {
+    "name":"prosqlite",
+    "ver":"2.0",
+    "fetcher":"tarball",
+    "desc":"An SWI-Prolog interface to SQLite",
+    "url":"https://stoics.org.uk/~nicos/sware/packs/prosqlite/prosqlite-2.0.tgz",
+    "sha256":"1razyrhdjbq8zdcgsnzbnngah602zzgv0hcsfpxycvlwadid5vha"
+  },
+  {
+    "name":"pub_graph",
+    "ver":"1.2",
+    "fetcher":"tarball",
+    "desc":"Access, cache and visualise citation relations in publications servers",
+    "url":"https://stoics.org.uk/~nicos/sware/packs/pub_graph/pub_graph-1.2.tgz",
+    "sha256":"1jfi18ai6imwdq5zfjd6p1k2xdxm511kcv0qbp1famyfswjmhyfg"
+  },
+  {
+    "name":"pubmed",
+    "ver":"0.0.4",
+    "fetcher":"tarball",
+    "desc":"Access pubmed publication records",
+    "url":"http://stoics.org.uk/~nicos/sware/packs/pubmed/pubmed-0.0.4.tgz",
+    "sha256":"0brlh6jr2chm5mfpcsi1b61fyapv9b38jw866zrynypb1hj54gw1"
+  },
+  {
+    "name":"purity",
+    "ver":"0.2.2",
+    "fetcher":"git",
+    "desc":"A Horn Clause Only library for Prolog",
+    "url":"https://github.com/da-poodle/purity.git",
+    "sha256":"1yfrpfivarvalbzq3pk55qcmiwv584s8fhxyi4jb4ajkqji2ab3s"
+  },
+  {
+    "name":"py_to_plantuml",
+    "ver":"0.0.3",
+    "fetcher":"zip",
+    "desc":"Creates UML class diagrams from Python pylint's pyreverse generated .dot files.",
+    "url":"https://github.com/crgz/py_to_plantuml/archive/v0.0.3.zip",
+    "sha256":"08gvyy1zy2s6pm2k9q4q365nihk8sf7yrr3vmh0xsv7wp9iv5g39"
+  },
+  {
+    "name":"quantity",
+    "ver":"0.1",
+    "fetcher":"git",
+    "desc":"Parse quantities like \"1.5 kg\" and return some formatting information.",
+    "url":"https://github.com/mgondan/quantity.git",
+    "sha256":"00ggpz4xbifmiagrd5k2crnry40ah0amq8c295g4ky3i3ss9mgwp"
+  },
+  {
+    "name":"quickcheck",
+    "ver":"0.3.0",
+    "fetcher":"git",
+    "desc":"QuickCheck randomized testing",
+    "url":"https://github.com/nicoabie/quickcheck.git",
+    "sha256":"1z4hbqhky7q56hn07hjsyqm9fbv3ybkzzyh5k6icbsj43yi8pmbq"
+  },
+  {
+    "name":"r_random",
+    "ver":"0.2.2",
+    "fetcher":"git",
+    "desc":"Purely relational predicates that implement Pseudo-Random Number Generation (PRNG) and Random Sampling (to-do).",
+    "url":"https://github.com/LuizFBR/r_random.git",
+    "sha256":"1sdffnm2wljd2gcg74sskvfp1hhyrjnp42c2ng09wwqgjm2yyppa"
+  },
+  {
+    "name":"race",
+    "ver":"0.1.0",
+    "fetcher":"git",
+    "desc":"Client for the SOAP interface of the Attempto Reasoner RACE",
+    "url":"https://github.com/fnogatz/race.git",
+    "sha256":"00pa317p3n8w8qmdh2kw2v4y6lapk3pml0570l87m58xlpyxs79d"
+  },
+  {
+    "name":"rdet",
+    "ver":"1.0.2",
+    "fetcher":"git",
+    "desc":"Runtime determinacy checker",
+    "url":"https://github.com/rla/rdet.git",
+    "sha256":"0bb0qmwp8igmmcg6frw9njpmd9nn57xlaias6p5gaq4rvlj99b66"
+  },
+  {
+    "name":"rdf_matcher",
+    "ver":"0.1.5",
+    "fetcher":"zip",
+    "desc":"RDF matching utils",
+    "url":"https://github.com/cmungall/rdf_matcher/archive/v0.1.5.zip",
+    "sha256":"1lf251ymk7gb72cnsbsmn0hfqpc4hzwbwz87zgyaawhzz77aaq0m"
+  },
+  {
+    "name":"rdf_notification",
+    "ver":"0.1",
+    "fetcher":"git",
+    "desc":"RDF notification",
+    "url":"https://github.com/honnix/rdf_notification.git",
+    "sha256":"1ig68fjdpdhz031m8m967l84911sc1kpj8wlxzc93pggaw9r9pp0"
+  },
+  {
+    "name":"rdfs2pl",
+    "ver":"0.0.5",
+    "fetcher":"zip",
+    "desc":"Compile an RDFS schema to prolog predicates",
+    "url":"https://github.com/cmungall/rdfs2pl/archive/v0.0.5.zip",
+    "sha256":"04k17rl4gbfm7yc95zb7l9zdhpvh9dy3lgghipz7k5zyz26sf2y8"
+  },
+  {
+    "name":"readability_parser",
+    "ver":"0.0.4",
+    "fetcher":"tarball",
+    "desc":"Readability Parser API",
+    "url":"http://packs.ndrix.com/readability_parser/readability_parser-0.0.4.tgz",
+    "sha256":"0443prfhjkvg96admakf8ghi7dcjis78945r139wbmc3wf8zzb6h"
+  },
+  {
+    "name":"real",
+    "ver":"2.3",
+    "fetcher":"tarball",
+    "desc":"Integrative statistics with R",
+    "url":"https://stoics.org.uk/~nicos/sware/packs/real/real-2.3.tgz",
+    "sha256":"1b5qxjsrz5bq9gjcpasxm92sfr19h4dfjavdbx5rpf157y12yw49"
+  },
+  {
+    "name":"recaptcha",
+    "ver":"0.9.2",
+    "fetcher":"tarball",
+    "desc":"reCAPTCHA plugin for SWI-Prolog HTTP framework",
+    "url":"http://www.swi-prolog.org/download/pack/recaptcha-0.9.2.tgz",
+    "sha256":"0g167vinyz1vnmpbbibcwcsr944vhj3kwlqydhnd76mbmqv1aman"
+  },
+  {
+    "name":"refactor",
+    "ver":"1.0.0",
+    "fetcher":"git",
+    "desc":"Refactoring Tools for SWI-Prolog",
+    "url":"https://github.com/edisonm/refactor.git",
+    "sha256":"18n8dgp17pj41g1lyy39fkgx5cxs3dj0k6iqgp6cy4dm1851wbj1"
+  },
+  {
+    "name":"regex",
+    "ver":"0.3.3",
+    "fetcher":"zip",
+    "desc":"Regular expressions",
+    "url":"http://github.com/mndrix/regex/archive/v0.3.3.zip",
+    "sha256":"103mmhw14xhcpxlkbf9zrmkkp5am4200pyk8jg7fdigbwrra3b91"
+  },
+  {
+    "name":"reif",
+    "ver":"1.0.0",
+    "fetcher":"git",
+    "desc":"Reified if, reification library",
+    "url":"https://github.com/meditans/reif.git",
+    "sha256":"00rfax7zmsiv65h50dp4xgwhvykg7vq5d85jfvg110qf0nvbrz5b"
+  },
+  {
+    "name":"reif_utils",
+    "ver":"1.0.0",
+    "fetcher":"zip",
+    "desc":"A collection of reified predicates for use with reif.pl",
+    "url":"https://github.com/mmisamore/reif_utils/archive/1.0.0.zip",
+    "sha256":"0fkj2l06r9qjpz9a92s9ckj8llzdyzn4vixm9mw5i5grszhaza1b"
+  },
+  {
+    "name":"resbound",
+    "ver":"0.8.1",
+    "fetcher":"tarball",
+    "desc":"Run goal with resource bounds",
+    "url":"http://www.swi-prolog.org/download/pack/resbound-0.8.1.tgz",
+    "sha256":"10l95kgidz368j6h3cbmqvjm0lpavdsqpi66if04v159vhd5bh5s"
+  },
+  {
+    "name":"resp",
+    "ver":"0.3",
+    "fetcher":"git",
+    "desc":"Redis protocol parser and writer",
+    "url":"https://github.com/canbican/resp.git",
+    "sha256":"0ir1s9wiz08p4nqd2s8ymh0s3yh2z2g006alnxfzgxnkbg2dnvhk"
+  },
+  {
+    "name":"resp_parse",
+    "ver":"0.1",
+    "fetcher":"git",
+    "desc":"Redis protocol parser and writer",
+    "url":"https://github.com/canbican/resp.git",
+    "sha256":"15y6g5xgfcidqlyxb8q5ms8qn78igk7rzagz9f5lsn5m5h73hbrf"
+  },
+  {
+    "name":"rocksdb",
+    "ver":"0.14.4",
+    "fetcher":"git",
+    "desc":"SWI-Prolog interface to RocksDB",
+    "url":"https://github.com/JanWielemaker/rocksdb.git",
+    "sha256":"0pfb7fg83hrj9jvffwa014ksb1q2mlckvacrzpv2c1qmyrd1g3k3"
+  },
+  {
+    "name":"roman",
+    "ver":"0.1.0",
+    "fetcher":"zip",
+    "desc":"Roman numerals",
+    "url":"https://github.com/mndrix/roman/archive/v0.1.0.zip",
+    "sha256":"0q2kgdjmjaxmfnr9z1fns9afypj35jqai9qhhhi89p0b8rknlr2z"
+  },
+  {
+    "name":"ropes",
+    "ver":"0.1.7",
+    "fetcher":"zip",
+    "desc":"Ropes data structure library",
+    "url":"https://git.sr.ht/~eshel/ropes.pl/refs/download/v0.1.0/ropes-0.1.7.zip",
+    "sha256":"18l9g4f045nzmbxzhkwfy8g87l8jfiyfqhl5rly1mn1yz3nr75qf"
+  },
+  {
+    "name":"rserve_client",
+    "ver":"1.1.4",
+    "fetcher":"git",
+    "desc":"R Rserve client",
+    "url":"https://github.com/JanWielemaker/rserve_client.git",
+    "sha256":"02rmd6gl5zvqr5qyn7m6913ks16lhy7xm4srnx1izbps0xgd6vym"
+  },
+  {
+    "name":"rtchecks",
+    "ver":"0.0.1",
+    "fetcher":"git",
+    "desc":"Run-Time Checker for Assertions",
+    "url":"https://github.com/edisonm/rtchecks.git",
+    "sha256":"1ml1lmggibx7dk1xypbhwj3ijyzi7mwdwn4s2wsl248kk6zpg3k0"
+  },
+  {
+    "name":"rtg",
+    "ver":"0.0.7",
+    "fetcher":"git",
+    "desc":"Regular Tree Grammer validator",
+    "url":"https://github.com/hsk/rtg.git",
+    "sha256":"1g3083psp3136nxifrjxbh120dxabk7mk3szhwpgx1vwvffz6vhx"
+  },
+  {
+    "name":"rtp_qsndqs",
+    "ver":"0.3",
+    "fetcher":"tarball",
+    "desc":"Real-time persistent queues and deques.",
+    "url":"https://svn.spraakdata.gu.se/repos/gerlof/pub/www/Prolog/rtp_qsndqs-0.3.tgz",
+    "sha256":"186laalqwqywyh9llqkxfafhf9sdzd5mbh1xkfmpyajw8vg5fs75"
+  },
+  {
+    "name":"rtrace",
+    "ver":"0.0.7",
+    "fetcher":"git",
+    "desc":"Selective Interactive Non-Deterministic Tracing",
+    "url":"https://github.com/TeamSPoon/xlisting.git",
+    "sha256":"0lyxms8d1ah7ha3q5rl0q8szjigwz6f8lzzj44xr430p515vkc14"
+  },
+  {
+    "name":"s_expression",
+    "ver":"1.2.111",
+    "fetcher":"git",
+    "desc":"Utilities for Handling of S-Expression Lisp/Scheme-Like forms and parsing of KIF, GDL, PDDL, CLIF",
+    "url":"https://github.com/TeamSPoon/s_expression.git",
+    "sha256":"1h3pdhvnayl1nm3bdjzbwa96agg5ji4wp6l9l8qhxmk9c9wdywr7"
+  },
+  {
+    "name":"scasp",
+    "ver":"1.1.4",
+    "fetcher":"git",
+    "desc":"Goal directed ASP solver",
+    "url":"https://github.com/SWI-Prolog/sCASP.git",
+    "sha256":"1iwslvj7873ykpl2gaphllhfwsma93csgmmf7c02v5x0ip9khaz7"
+  },
+  {
+    "name":"semantria",
+    "ver":"0.0.4",
+    "fetcher":"tarball",
+    "desc":"Use Semantria natural language API",
+    "url":"http://packs.ndrix.com/semantria/semantria-0.0.4.tgz",
+    "sha256":"0vg45bsbr72s9qag2kszz7v0vygq8g9vk22as4hhi88hfr01n8j9"
+  },
+  {
+    "name":"si",
+    "ver":"0.1",
+    "fetcher":"git",
+    "desc":"Port of the Scryer prolog si module",
+    "url":"https://github.com/Risto-Stevcev/prolog_si.git",
+    "sha256":"0bd9cxs5qr6pkx184icpgbdwvg5npf83v2c2z6k0h6h3w0i99gs0"
+  },
+  {
+    "name":"simple_bootstrap",
+    "ver":"0.0.2",
+    "fetcher":"zip",
+    "desc":"Bootstrap Extension to Simple Web",
+    "url":"https://gitlab.com/PaulBrownMagic/simple_bootstrap/-/archive/0.0.2/simple_bootstrap-0.0.2.zip",
+    "sha256":"13w2f0syk6xrawwqk4ifyncxfzimp25xrd0mm8szb3pbzg0fh4qp"
+  },
+  {
+    "name":"simple_template",
+    "ver":"1.3.1",
+    "fetcher":"tarball",
+    "desc":"Logic-free text (HTML) templates",
+    "url":"http://packs.rlaanemets.com/simple-template/simple_template-1.3.1.tgz",
+    "sha256":"051ri9i9f02x4ljngdrrvi6sqd15vlv6790bxh5dpnrrg7wafz6j"
+  },
+  {
+    "name":"simple_web",
+    "ver":"0.3.1",
+    "fetcher":"zip",
+    "desc":"Microframework for building websites",
+    "url":"https://gitlab.com/PaulBrownMagic/simple_web/-/archive/0.3.1/simple_web-0.3.1.zip",
+    "sha256":"1r646airavd8vfx42wdaf7wfxadnvb0ch4b7qjvd9sasvknyiwvz"
+  },
+  {
+    "name":"sindice",
+    "ver":"0.0.5",
+    "fetcher":"tarball",
+    "desc":"Access to Sindice semantic web search engine",
+    "url":"https://github.com/samer--/prolog/raw/master/sindice/release/sindice-0.0.5.tgz",
+    "sha256":"1h5iw29gxfmj4ppqypz5qvlqvw13s8c3y2fcx9713f9289fwyjvi"
+  },
+  {
+    "name":"slack_prolog",
+    "ver":"2.0.3",
+    "fetcher":"git",
+    "desc":"Prolog interface to Slack http://www.slack.com",
+    "url":"https://github.com/TeamSPoon/slack_prolog.git",
+    "sha256":"0jvzcgrsvv0fjaafssvkcd1b8mj6lm4gv3vl0wd2hj2j6fspn808"
+  },
+  {
+    "name":"sldnfdraw",
+    "ver":"1.61",
+    "fetcher":"git",
+    "desc":"SLDNF Draw is a Prolog program that draws SLDNF Trees in LaTeX",
+    "url":"https://github.com/gavanelli/sldnfdraw.git",
+    "sha256":"1src8ds309vadqk2mrfvaa2kmcprm283627k9rvgfrxvnw1b9p0i"
+  },
+  {
+    "name":"small_adventure_games",
+    "ver":"1.1.8",
+    "fetcher":"git",
+    "desc":"Small Adventure Games in Prolog using the CHAT80 Prolog natural language application",
+    "url":"https://github.com/TeamSPoon/small_adventure_games.git",
+    "sha256":"1bli2nkaqlykh6rv4gs4gdcnm0x49njf9iv1xjpjz3lln4vq9li4"
+  },
+  {
+    "name":"smtlib",
+    "ver":"0.0.6",
+    "fetcher":"tarball",
+    "desc":"SMT-LIB parser for SWI-Prolog",
+    "url":"http://jariaza.es/swipl/smtlib/smtlib-0.0.6.tgz",
+    "sha256":"0xglrmnwkn37bbq6hsd8z19jn1amfac0yxpxws1i05y3nwnw3yzm"
+  },
+  {
+    "name":"smtp",
+    "ver":"1.1.0",
+    "fetcher":"zip",
+    "desc":"An (E)SMTP client for sending mail",
+    "url":"https://github.com/JanWielemaker/smtp/archive/V1.1.0.zip",
+    "sha256":"1xgjasq8rx27585aibki9k14ilpj6k7xw2av3w08gjsin32afrmg"
+  },
+  {
+    "name":"sort_dict",
+    "ver":"0.0.3",
+    "fetcher":"tarball",
+    "desc":"Sorts dicts by key",
+    "url":"http://packs.rlaanemets.com/sort-dict/sort_dict-0.0.3.tgz",
+    "sha256":"0lnx8j2ixz9dya5h2ggvr6lwd7a9nyh9zf1mc0hmxcdlnv26ykd1"
+  },
+  {
+    "name":"sourcehut",
+    "ver":"0.1.10",
+    "fetcher":"zip",
+    "desc":"SourceHut GraphQL API client",
+    "url":"https://git.sr.ht/~eshel/sourcehut.pl/refs/download/v0.1.10/sourcehut-0.1.10.zip",
+    "sha256":"0w7ijbz1a5ywjdxk9hh4lzn7prkqqmqjbmgnl6ygxp5gk16ck765"
+  },
+  {
+    "name":"space",
+    "ver":"0.3.4",
+    "fetcher":"git",
+    "desc":"Space package",
+    "url":"https://github.com/JanWielemaker/space.git",
+    "sha256":"092l74ymjxvj1rpcbz81i9xvzi8vaqdkqgfgwdp5hc0f2nfbafib"
+  },
+  {
+    "name":"sparkle",
+    "ver":"0.1.1",
+    "fetcher":"tarball",
+    "desc":"Prolog-friendly interface to SPARQL endpoints",
+    "url":"https://github.com/samer--/prolog/raw/master/sparkle/release/sparkle-0.1.1.tgz",
+    "sha256":"1iahsjxqicvdyzw3rhqsb1nlcs19cklqi5nsj9krk98d4aswm151"
+  },
+  {
+    "name":"sparqlprog",
+    "ver":"0.2.9",
+    "fetcher":"git",
+    "desc":"Logic programming with SPARQL",
+    "url":"https://github.com/cmungall/sparqlprog.git",
+    "sha256":"0pilhzf8nw00a85cy5lvsynsi509fznqkik2fr5fch02nfldrb26"
+  },
+  {
+    "name":"sparqlprog_wikidata",
+    "ver":"0.0.3",
+    "fetcher":"zip",
+    "desc":"SPARQLprog bindings for WikiData",
+    "url":"https://github.com/cmungall/sparqlprog_wikidata/archive/v0.0.3.zip",
+    "sha256":"0gi3x3r75pirsk90rdhay78xdrwacqq961sldmr2xi85xndpd78w"
+  },
+  {
+    "name":"spawn",
+    "ver":"0.0.1",
+    "fetcher":"tarball",
+    "desc":"Easy concurrency",
+    "url":"http://packs.ndrix.com/spawn/spawn-0.0.1.tgz",
+    "sha256":"043xklp5gnv63g1zam9n14ddjh5vj401vxdqa89hy5irnfswk0pb"
+  },
+  {
+    "name":"spotify",
+    "ver":"0.1.0",
+    "fetcher":"zip",
+    "desc":"Use the Spotify API from Prolog.",
+    "url":"https://github.com/ReedOei/spotify/archive/0.1.0.zip",
+    "sha256":"0v5pbfcgrypw211kg6f780kn865329griggd7r1nxjz1ca9lm89y"
+  },
+  {
+    "name":"spuds",
+    "ver":"1.2",
+    "fetcher":"tarball",
+    "desc":"Persistent, user code inclusive, documentation server for linux",
+    "url":"https://stoics.org.uk/~nicos/sware/packs/spuds/spuds-1.2.tgz",
+    "sha256":"0q3wskjv5xxyhvn1w33jbipwpci38labal5895v31vam9vczf5xd"
+  },
+  {
+    "name":"stoics_lib",
+    "ver":"1.8",
+    "fetcher":"tarball",
+    "desc":"A medley of library predicates for stoics packs",
+    "url":"https://stoics.org.uk/~nicos/sware/packs/stoics_lib/stoics_lib-1.8.tgz",
+    "sha256":"1rgxavblp1dkbzybm8rvhb290dp3ynjljfw54lliv30hd9b4swh2"
+  },
+  {
+    "name":"stompl",
+    "ver":"0.1",
+    "fetcher":"git",
+    "desc":"STOMP client",
+    "url":"https://github.com/honnix/stompl.git",
+    "sha256":"0ig1dxrnalj0s8fk2v30bdjfq03l9jhcr3lfw4vhpyvhnch5ni9k"
+  },
+  {
+    "name":"subclause_expansion",
+    "ver":"1.1.118",
+    "fetcher":"git",
+    "desc":"More detailed versions of term/goal expansion hooks",
+    "url":"https://github.com/TeamSPoon/subclause_expansion.git",
+    "sha256":"0bx0nd60yqf67mn23vadq35vvm7q4lvhkcff6zivl5kyll1gbvw3"
+  },
+  {
+    "name":"subsumes",
+    "ver":"0.4",
+    "fetcher":"zip",
+    "desc":"Relational term subsumption. subsumes/2 is intended as a relational drop-in replacement for subsumes_term/2. Note that this conflicts with the deprecated predicate terms:subsumes/2.",
+    "url":"http://github.com/GeoffChurch/subsumes/archive/0.4.zip",
+    "sha256":"07qaf3iwg2s483vhfhgj72q10p33w5abfqn8q2cdbcjllz1gxd3n"
+  },
+  {
+    "name":"sudoku_utils",
+    "ver":"0.0.11",
+    "fetcher":"zip",
+    "desc":"Testing to make an example package with utils for working with Sudoku",
+    "url":"https://github.com/rq-abrahamsson/sudoku_utils/archive/v0.0.11.zip",
+    "sha256":"0xrv6p4w2i5gyswjmjlcm5yzs5pmv58n7gjqp8y6i6lqp2lbr8v6"
+  },
+  {
+    "name":"svg",
+    "ver":"0.1",
+    "fetcher":"tarball",
+    "desc":"Manipulating SVG xmls",
+    "url":"http://stoics.org.uk/~nicos/sware/packs/svg/svg-0.1.tgz",
+    "sha256":"1gyv3k2w614zfplh2wi50zhv4mx7dpfp89qpn11k90hrrl4yhyf2"
+  },
+  {
+    "name":"sweet",
+    "ver":"0.1.1",
+    "fetcher":"tarball",
+    "desc":"Sugar to make Prolog a little sweeter",
+    "url":"http://packs.ndrix.com/sweet/sweet-0.1.1.tgz",
+    "sha256":"1mx2b7nn1k6phlab7p1p8f0w8pa0di1jdw12hhwb65psp4q03j6a"
+  },
+  {
+    "name":"swicli",
+    "ver":"2.0.0",
+    "fetcher":"git",
+    "desc":"SWI-Prolog interface to C/C++/.NET/Mono/Objective-C",
+    "url":"https://github.com/logicmoo/swicli.git",
+    "sha256":"1gic4x9ib11izvf5wiwmxpiakary2vz43sq4r5dl7dzrfnhawxfw"
+  },
+  {
+    "name":"swipe",
+    "ver":"0.2.6",
+    "fetcher":"tarball",
+    "desc":"Shell pipeline construction with type checking",
+    "url":"https://raw.githubusercontent.com/samer--/prolog/master/swipe/release/swipe-0.2.6.tgz",
+    "sha256":"0ixgp61jl9zkcl6zi116ja5m8p43xbv9qajy2bhs0860sf45sx3w"
+  },
+  {
+    "name":"swiplite",
+    "ver":"0.3",
+    "fetcher":"zip",
+    "desc":"Prolog bindings for SQLite3",
+    "url":"https://github.com/borisvassilev/swiplite/archive/V0.3.zip",
+    "sha256":"0maawvrycz7bdy4r5w0ai0nisp1630x0h5wh34as40zrrls49as8"
+  },
+  {
+    "name":"switex",
+    "ver":"0.0.7",
+    "fetcher":"tarball",
+    "desc":"Literate programming with LaTeX and Prolog",
+    "url":"https://github.com/samer--/switex/raw/master/release/switex-0.0.7.tgz",
+    "sha256":"1m9jmql79sxdrrk7jdz7d37c9vg2qqkl85919fvq85hymcz59v2w"
+  },
+  {
+    "name":"tailwind_pl",
+    "ver":"2.0.2",
+    "fetcher":"zip",
+    "desc":"Tailwind-style CSS generator for Prolog",
+    "url":"https://github.com/jamesnvc/tailwind_pl/archive/v2.0.2.zip",
+    "sha256":"1kf8hyfn6q1rjcnkvikpvhl0i366ipzjlr5kmn7ikrm44sr777gj"
+  },
+  {
+    "name":"tailwind_pl_generate",
+    "ver":"2.2.0",
+    "fetcher":"zip",
+    "desc":"Tailwind-style CSS generator for Prolog - Generator",
+    "url":"https://github.com/jamesnvc/tailwind_pl_generate/archive/v2.2.0.zip",
+    "sha256":"12cpgm2zigsc6c8v9fni1j00pqib0p7jq5knipnbvbi8v83zcrc3"
+  },
+  {
+    "name":"tap",
+    "ver":"1.0.3",
+    "fetcher":"git",
+    "desc":"Automated tests via Test Anything Protocol",
+    "url":"https://github.com/fnogatz/tap.git",
+    "sha256":"1x31408zq0jp7y78ax36kf5qjx7ckxya6rlmy8vyvwl88mqccwkh"
+  },
+  {
+    "name":"telegrambot",
+    "ver":"0.0.2",
+    "fetcher":"zip",
+    "desc":"API for Telegram",
+    "url":"https://bitbucket.org/cnngimenez/telegrambot/get/telegrambot-0.0.2.zip",
+    "sha256":"1vf86ck1hwizmw81g3rs1i6lrz7prxvscpz4f4hwnnzv82r0jnfh"
+  },
+  {
+    "name":"term_diff",
+    "ver":"0.0.1",
+    "fetcher":"git",
+    "desc":"",
+    "url":"https://github.com/mndrix/term_diff.git",
+    "sha256":"1008avqjxdp62d5nyqbz7jnxxffgj8j4pzfks48gwf6r17s9ajdv"
+  },
+  {
+    "name":"terminus_store_prolog",
+    "ver":"0.19.8",
+    "fetcher":"zip",
+    "desc":"Use the Terminus-Store Rust library from Prolog",
+    "url":"https://github.com/terminusdb/terminus_store_prolog/archive/v0.19.8.zip",
+    "sha256":"1kzg7bl67fj4z3bl7gy28gdxp95yxh9zqbdvv2x3dvrvwfrgw0nw"
+  },
+  {
+    "name":"thousands",
+    "ver":"0.2.0",
+    "fetcher":"tarball",
+    "desc":"Thousands separator for large integers",
+    "url":"http://packs.ndrix.com/thousands/thousands-0.2.0.tgz",
+    "sha256":"04yr8aji45ga5rkpsb1s6k5szrkrkrv8qdi896s96gl2qyb22818"
+  },
+  {
+    "name":"tidylog",
+    "ver":"0.0.1",
+    "fetcher":"git",
+    "desc":"",
+    "url":"https://github.com/mndrix/tidylog.git",
+    "sha256":"1yhwc8na2k576nq3nr9vm5zha2xwdsz81y9yxxpyi8p4jl7yqc2y"
+  },
+  {
+    "name":"timeutils",
+    "ver":"0.0.4",
+    "fetcher":"tarball",
+    "desc":"Tools for temporally aware programming",
+    "url":"https://raw.githubusercontent.com/samer--/prolog/master/timeutils/release/timeutils-0.0.4.tgz",
+    "sha256":"0sz2bdrgv8854ca4kr1ckdy6makm8q1s62f5wayksg9rahv59zc7"
+  },
+  {
+    "name":"tokenize",
+    "ver":"1.0.1",
+    "fetcher":"zip",
+    "desc":"A simple tokenization library",
+    "url":"https://github.com/shonfeder/tokenize/archive/v1.0.1.zip",
+    "sha256":"01vc58ddnz5zw5b4rypv0h42v6j2la99h4qf837zavnw3rqfdxml"
+  },
+  {
+    "name":"tor",
+    "ver":"1.0.4",
+    "fetcher":"zip",
+    "desc":"Tor: Extensible Search with Hookable Disjunction",
+    "url":"https://people.cs.kuleuven.be/tom.schrijvers/tor/tor-1.0.4.zip",
+    "sha256":"0ai0s490k11smlslvs1nml8amra87dcp66hibpy3lvmzf6c3zy1k"
+  },
+  {
+    "name":"transpiler",
+    "ver":"0.1",
+    "fetcher":"git",
+    "desc":"A universal translator for programming languages",
+    "url":"https://github.com/jarble/transpiler.git",
+    "sha256":"0a3mxhzfvr6i73rqzjwsmn4fws4m336pp6ifbl3j1iy9bpwzn002"
+  },
+  {
+    "name":"trill",
+    "ver":"7.0.1",
+    "fetcher":"git",
+    "desc":"A tableau probabilistic reasoner in three different versions",
+    "url":"https://github.com/rzese/trill.git",
+    "sha256":"1gysx3lhj906swdx866qaims2srccnhkk65prsjf72q5yh4l4y7l"
+  },
+  {
+    "name":"tus",
+    "ver":"0.0.14",
+    "fetcher":"git",
+    "desc":"TUS file transport protocol in prolog",
+    "url":"https://github.com/terminusdb/tus.git",
+    "sha256":"1cwy3kfww7hz9cbsgwdphndkl3yc07gfsw4ffz247pvjfp71ls5c"
+  },
+  {
+    "name":"twitter",
+    "ver":"0.10",
+    "fetcher":"git",
+    "desc":"A pack to access the twitter api",
+    "url":"https://github.com/samwalrus/twitter_pack.git",
+    "sha256":"13yl71q43y81c1hhflksyx6h2fmm678hkk9fr15r2m0ygdwh848s"
+  },
+  {
+    "name":"type_check",
+    "ver":"1.0.3",
+    "fetcher":"zip",
+    "desc":"Type System for Prolog based on Hindley-Milner",
+    "url":"https://people.cs.kuleuven.be/~tom.schrijvers/type_check-1.0.3.zip",
+    "sha256":"09s2v3bkz0wgp800s9rl08cphym05n007j5fg7nj2sfz4hdy6zgi"
+  },
+  {
+    "name":"typedef",
+    "ver":"0.1.9",
+    "fetcher":"tarball",
+    "desc":"Support for type definitions",
+    "url":"https://raw.githubusercontent.com/samer--/prolog/master/typedef/release/typedef-0.1.9.tgz",
+    "sha256":"0larslx844d8f3npysc7wif8bbxwc2bz442j2sg0yc59dcgghi9z"
+  },
+  {
+    "name":"unified_diff",
+    "ver":"0.0.1",
+    "fetcher":"tarball",
+    "desc":"Parse and generate unified diffs",
+    "url":"http://packs.ndrix.com/unified_diff/unified_diff-0.0.1.tgz",
+    "sha256":"1wvmgzxgd8bm5zy6z2f1ln5qf0hn7yiyzg06xw1s02rw5lm7r3g6"
+  },
+  {
+    "name":"union_find",
+    "ver":"1.0.0",
+    "fetcher":"tarball",
+    "desc":"A union-find algorithm implementation for SWI-Prolog",
+    "url":"http://jariaza.es/swipl/union_find/union_find-1.0.0.tgz",
+    "sha256":"17zbbqsdkf1192svcbcmdjgkv4r2nmpdw4hg7wngmrw9scyhfm2n"
+  },
+  {
+    "name":"unionfind",
+    "ver":"1.0.0",
+    "fetcher":"zip",
+    "desc":"Optimal implementation of the union-find algorithm in CHR",
+    "url":"https://people.cs.kuleuven.be/tom.schrijvers/tor/unionfind-1.0.0.zip",
+    "sha256":"1x01kfysv2yzvjys4hfxlwkrfnyr5kvlyxm98i3n8lhsx4aqxwzj"
+  },
+  {
+    "name":"upsh",
+    "ver":"2.6",
+    "fetcher":"tarball",
+    "desc":"Unix to Prolog shell.",
+    "url":"https://stoics.org.uk/~nicos/sware/packs/upsh/upsh-2.6.tgz",
+    "sha256":"1rf0l1v6fgzw1aa8svdgfy476vrhg0qvhajbl33ybqss4j7hgng9"
+  },
+  {
+    "name":"uri_qq",
+    "ver":"0.3.0",
+    "fetcher":"tarball",
+    "desc":"URI quasiquotations",
+    "url":"http://packs.ndrix.com/uri_qq/uri_qq-0.3.0.tgz",
+    "sha256":"1zgggpjm6i2slbf7kgwd43q9hvp5hldvkh7c1l1xdcik3g9ppsqx"
+  },
+  {
+    "name":"uuid",
+    "ver":"1.1.0",
+    "fetcher":"zip",
+    "desc":"Generating and parsing version 4 UUIDs",
+    "url":"https://github.com/jamesnvc/uuid/archive/v1.1.0.zip",
+    "sha256":"18dvng61dl5fn71b6m3b0ysi7fw2zd8dv5x29l6km72zw09vfh2i"
+  },
+  {
+    "name":"wam_common_lisp",
+    "ver":"2.0.3",
+    "fetcher":"git",
+    "desc":"ANSI Common Lisp implemented in Prolog",
+    "url":"https://github.com/TeamSPoon/wam_common_lisp.git",
+    "sha256":"08iy8dknkc1nyj330jq9fada7af1h1g5kbwm19vg7cxwc4bpc6an"
+  },
+  {
+    "name":"web",
+    "ver":"0.1.1",
+    "fetcher":"zip",
+    "desc":"Easy web client",
+    "url":"https://github.com/mndrix/web/archive/v0.1.1.zip",
+    "sha256":"1p8dbfyyrawy414xrrcdz1i4yzyrn363v0aapgnjx76vbgbn8jkf"
+  },
+  {
+    "name":"webconsole",
+    "ver":"0.9.1",
+    "fetcher":"tarball",
+    "desc":"Use a browser as HTML console",
+    "url":"http://www.swi-prolog.org/download/pack/webconsole-0.9.1.tgz",
+    "sha256":"086349swsz3d3ha0v2pk7xkilbkn09yiyg3z4wx8mihqzsr8s2p6"
+  },
+  {
+    "name":"weblog",
+    "ver":"0.0.5",
+    "fetcher":"git",
+    "desc":"weblog",
+    "url":"https://github.com/Anniepoo/weblog.git",
+    "sha256":"1vnm2ys097mrzycy7vklzn2vb8zcnizqi8vlx6qbxdr8rbj8djyc"
+  },
+  {
+    "name":"wgraph",
+    "ver":"0.6",
+    "fetcher":"tarball",
+    "desc":"Weighted graphs, with plotting via Real",
+    "url":"http://stoics.org.uk/~nicos/sware/packs/wgraph/wgraph-0.6.tgz",
+    "sha256":"0f484q0gfbfxmhr94imdlz71m284n6vjhc8ddhyznmmjjmi2fg11"
+  },
+  {
+    "name":"with",
+    "ver":"0.0.6",
+    "fetcher":"zip",
+    "desc":"Context managers for SWI Prolog",
+    "url":"https://github.com/edechter/with/archive/refs/tags/v0.0.6.zip",
+    "sha256":"11lwn72ca2fiwf2hqaniy36h0r3c8lmr3qj346zk6cgamlpx7nx5"
+  },
+  {
+    "name":"with_memory_file",
+    "ver":"0.1",
+    "fetcher":"git",
+    "desc":"Like with_output_to but for memory files",
+    "url":"https://github.com/Risto-Stevcev/with_memory_file.git",
+    "sha256":"19c0vb9crncj6lfqxfv8b9kgqkf60yb93ivcfi35wyf0qg31qr16"
+  },
+  {
+    "name":"with_open_options",
+    "ver":"1.2.11",
+    "fetcher":"git",
+    "desc":"Utilities to open various objects for read/write",
+    "url":"https://github.com/TeamSPoon/with_open_options.git",
+    "sha256":"0fzhwcgx2j17jf08b3dlp3sbfx5pzb5cnz67rx11746bciw2zvk9"
+  },
+  {
+    "name":"with_state",
+    "ver":"0.0.5",
+    "fetcher":"zip",
+    "desc":"Stateful computations with records",
+    "url":"https://github.com/edechter/with_state/archive/0.0.5.zip",
+    "sha256":"11xfv919ll46plpbhkjp2gj9y2pcw83xn4q5n7i46a8ggcgda7sj"
+  },
+  {
+    "name":"with_thread_local",
+    "ver":"1.2.111",
+    "fetcher":"git",
+    "desc":"Call a Goal with local assertions",
+    "url":"https://github.com/TeamSPoon/with_thread_local.git",
+    "sha256":"1p3c0m0yw6ira14b41zi66hxp2bikwgmd00bw8215hkz0d13q76n"
+  },
+  {
+    "name":"wordnet",
+    "ver":"0.9.3",
+    "fetcher":"git",
+    "desc":"Access to WordNet database",
+    "url":"https://github.com/JanWielemaker/wordnet.git",
+    "sha256":"1lbj515fl6fb6i6l3aqivs1h2k27jfl5nnq44j02bmcp8s7ysjir"
+  },
+  {
+    "name":"wsdl",
+    "ver":"0.1",
+    "fetcher":"tarball",
+    "desc":"Web Service Description Language (WSDL) and SOAP",
+    "url":"http://www.swi-prolog.org/download/pack/wsdl-0.1.tgz",
+    "sha256":"13x262fa01mx8nccar6y6y92yrk9akbraj6zbzq3l3ciqydgipa0"
+  },
+  {
+    "name":"wuenic",
+    "ver":"0.1",
+    "fetcher":"git",
+    "desc":"wuenic package",
+    "url":"https://github.com/mgondan/wuenic.git",
+    "sha256":"0qh9m4bwm2rv4zag2vzkjngggi6p1qk87wx9qhm88p0222v4s5a8"
+  },
+  {
+    "name":"xlibrary",
+    "ver":"0.0.2",
+    "fetcher":"git",
+    "desc":"Extended Libraries for Prolog",
+    "url":"https://github.com/edisonm/xlibrary.git",
+    "sha256":"0hgmaynbq0xy62hgi82zvzdzbfbrbxs84fwa9h4imj1g0ascsir3"
+  },
+  {
+    "name":"xlisting",
+    "ver":"1.2.111",
+    "fetcher":"git",
+    "desc":"Selective Interactive Non-Deterministic Tracing",
+    "url":"https://github.com/TeamSPoon/xlisting.git",
+    "sha256":"15kny5s5212n9qnb8am6y3cm03864ha8wfvnbrlpa9y4syi9cggr"
+  },
+  {
+    "name":"xlisting_web",
+    "ver":"1.1.118",
+    "fetcher":"git",
+    "desc":"Manipulate and browse prolog runtime over www",
+    "url":"https://github.com/TeamSPoon/xlisting_web.git",
+    "sha256":"0kam2q5xdpmcbgf1vjl8sc3589fr7kghy137lcs5qcb0czv3gsg2"
+  },
+  {
+    "name":"xsd",
+    "ver":"0.2.1",
+    "fetcher":"zip",
+    "desc":"XML Schema validation with Prolog",
+    "url":"https://github.com/jonakalkus/xsd/archive/v0.2.1.zip",
+    "sha256":"0aad1453s0av2gvr8gghgmlw58dp9vh6vq8z03mwbjva29yvajl4"
+  },
+  {
+    "name":"xtools",
+    "ver":"0.0.2",
+    "fetcher":"git",
+    "desc":"Extended Tools for SWI-Prolog",
+    "url":"https://github.com/edisonm/xtools.git",
+    "sha256":"0ixcknfw9hb3jll88nizcsyb5s3lcdbhjhg4820dcbgmsxx6hzjy"
+  }
+]

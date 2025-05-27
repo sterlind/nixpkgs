@@ -1,9 +1,12 @@
 {
   lib,
   stdenv,
+  fetchgit,
+  fetchzip,
   fetchFromGitHub,
   cmake,
   ninja,
+  callPackage,
 
   libxcrypt,
   zlib,
@@ -113,6 +116,15 @@ let
       fontconfig
     ])
     ++ extraLibraries';
+
+    packsJson = builtins.fromJSON (builtins.readFile ./packs.json);
+    fetchers = {
+        tarball = fetchTarball;
+        zip = fetchzip;
+        git = fetchgit;
+    };
+    makePack = {name, url, sha256, ...}: { inherit name; value = fetchers { inherit url sha256; }; };
+    packs = builtins.listToAttrs makePack packsJson;
 in
 stdenv.mkDerivation {
   pname = "swi-prolog";
@@ -138,6 +150,13 @@ stdenv.mkDerivation {
     cmake
     ninja
   ];
+
+  passthru = {
+    withPackages = f: (callPackage ./wrapper.nix { }).override {
+      swi-prolog = finalAttrs.finalPackage;
+      extraPacks = (f extraPacks);
+    };
+  };
 
   buildInputs = [
     libarchive
